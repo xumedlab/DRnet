@@ -1,0 +1,31 @@
+sample_id,group,disease,source_name_ch1,tissue
+Bp2,non_diabetic_membrane_control,branch retinal vein occlusion,Retinal neovascular proliferative membrane,branch retinal vein occlusion
+Bp3,non_diabetic_membrane_control,branch retinal vein occlusion,Retinal neovascular proliferative membrane,branch retinal vein occlusion
+Bp4,non_diabetic_membrane_control,branch retinal vein occlusion,Retinal neovascular proliferative membrane,branch retinal vein occlusion
+IIbp1,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,hemal arch
+IIbp2,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,hemal arch
+IIbp3,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,hemal arch
+IIbp4,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,hemal arch
+IInp1,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,nasal side
+IInp2,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,nasal side
+IInp3,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,nasal side
+IIp1,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,whole part
+IIp2,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,whole part
+IIp3,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,whole part
+IIp4,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,whole part
+IIr1,other,abbreviations of type II diabetes,retina,retina
+IIr2,other,abbreviations of type II diabetes,retina,retina
+IIrbp1,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,hemal arch part and optic disc
+IIrbp2,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,hemal arch part and optic disc
+IIrp1,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,optic disc
+IIrp2,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,optic disc
+IIsp1,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,surrounding part
+IIsp2,diabetic_proliferative_membrane,abbreviations of type II diabetes,Retinal neovascular proliferative membrane,surrounding part
+Ip1,diabetic_proliferative_membrane,abbreviations of type I diabetes,Retinal neovascular proliferative membrane,whole part
+Ip2,diabetic_proliferative_membrane,abbreviations of type I diabetes,Retinal neovascular proliferative membrane,whole part
+Ip3,diabetic_proliferative_membrane,abbreviations of type I diabetes,Retinal neovascular proliferative membrane,whole part
+Nr1,normal_retina,Normal retina,retina,retina
+Nr2,normal_retina,Normal retina,retina,retina
+Nr3,normal_retina,Normal retina,retina,retina
+Rp1,non_diabetic_membrane_control,retinal periphlebitis,Retinal neovascular proliferative membrane,retinal periphlebitis
+Rp2,non_diabetic_membrane_control,retinal periphlebitis,Retinal neovascular proliferative membrane,retinal periphlebitis

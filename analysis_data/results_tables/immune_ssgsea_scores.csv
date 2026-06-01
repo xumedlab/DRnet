@@ -1,0 +1,1093 @@
+sample_id,cell_type,score,group,severity_code
+sample_01,Activated_B_cell,0.16325711776684268,healthy control,0
+sample_02,Activated_B_cell,0.1114951329987692,healthy control,0
+sample_03,Activated_B_cell,0.12893629651650398,healthy control,0
+sample_04,Activated_B_cell,0.09640282747780095,healthy control,0
+sample_05,Activated_B_cell,0.08439688264610094,healthy control,0
+sample_06,Activated_B_cell,0.09703768255805426,healthy control,0
+sample_07,Activated_B_cell,0.11009956605780119,healthy control,0
+sample_08,Activated_B_cell,0.07116723886111596,healthy control,0
+sample_09,Activated_B_cell,0.1349062300407755,healthy control,0
+sample_10,Activated_B_cell,0.10122328641299971,healthy control,0
+sample_21,Activated_B_cell,0.13645577994703212,diabetic,1
+sample_22,Activated_B_cell,0.10692393153956077,diabetic,1
+sample_23,Activated_B_cell,0.07700505682502824,diabetic,1
+sample_24,Activated_B_cell,0.04565467296725628,diabetic,1
+sample_25,Activated_B_cell,0.09140075141544554,diabetic,1
+sample_26,Activated_B_cell,0.10153646552232122,diabetic,1
+sample_27,Activated_B_cell,0.08162911964948441,diabetic,1
+sample_28,Activated_B_cell,0.11122399836849779,diabetic,1
+sample_29,Activated_B_cell,0.16147833653360338,diabetic,1
+sample_30,Activated_B_cell,0.07272268016855352,diabetic,1
+sample_41,Activated_B_cell,0.08796612864372817,NPDR,2
+sample_42,Activated_B_cell,0.06546137296781483,NPDR,2
+sample_43,Activated_B_cell,0.11810009194534113,NPDR,2
+sample_44,Activated_B_cell,0.11380557822614211,NPDR,2
+sample_46,Activated_B_cell,0.08281795293764206,NPDR,2
+sample_47,Activated_B_cell,0.07943355684743782,NPDR,2
+sample_48,Activated_B_cell,0.056896402472012296,NPDR,2
+sample_49,Activated_B_cell,0.12714948758396374,NPDR,2
+sample_50,Activated_B_cell,0.11181404338392026,NPDR,2
+sample_61,Activated_B_cell,0.07502771298580073,NPDR/PDR + DME,3
+sample_62,Activated_B_cell,0.05285545328700313,NPDR/PDR + DME,3
+sample_63,Activated_B_cell,0.13852475409880582,NPDR/PDR + DME,3
+sample_64,Activated_B_cell,0.10711670744286053,NPDR/PDR + DME,3
+sample_65,Activated_B_cell,0.12320970318945638,NPDR/PDR + DME,3
+sample_66,Activated_B_cell,0.11830441687289076,NPDR/PDR + DME,3
+sample_67,Activated_B_cell,0.12011701662866006,NPDR/PDR + DME,3
+sample_68,Activated_B_cell,0.13924216198819525,NPDR/PDR + DME,3
+sample_69,Activated_B_cell,0.12040237458734075,NPDR/PDR + DME,3
+sample_70,Activated_B_cell,0.049058846278630504,NPDR/PDR + DME,3
+sample_01,Activated_CD4_T_cell,-0.2632106462118728,healthy control,0
+sample_02,Activated_CD4_T_cell,-0.36031045299427483,healthy control,0
+sample_03,Activated_CD4_T_cell,-0.36507961374702297,healthy control,0
+sample_04,Activated_CD4_T_cell,-0.2770784083460601,healthy control,0
+sample_05,Activated_CD4_T_cell,-0.2857968166038482,healthy control,0
+sample_06,Activated_CD4_T_cell,-0.2980899784703986,healthy control,0
+sample_07,Activated_CD4_T_cell,-0.37889630329516055,healthy control,0
+sample_08,Activated_CD4_T_cell,-0.3076482758780546,healthy control,0
+sample_09,Activated_CD4_T_cell,-0.33673150853970024,healthy control,0
+sample_10,Activated_CD4_T_cell,-0.33183230654531576,healthy control,0
+sample_21,Activated_CD4_T_cell,-0.3520954291894917,diabetic,1
+sample_22,Activated_CD4_T_cell,-0.335929179449708,diabetic,1
+sample_23,Activated_CD4_T_cell,-0.29232567169761725,diabetic,1
+sample_24,Activated_CD4_T_cell,-0.298067528480384,diabetic,1
+sample_25,Activated_CD4_T_cell,-0.30089170697521495,diabetic,1
+sample_26,Activated_CD4_T_cell,-0.36378936937289696,diabetic,1
+sample_27,Activated_CD4_T_cell,-0.33610925873638303,diabetic,1
+sample_28,Activated_CD4_T_cell,-0.283556310174575,diabetic,1
+sample_29,Activated_CD4_T_cell,-0.39920521413007604,diabetic,1
+sample_30,Activated_CD4_T_cell,-0.30945180349646273,diabetic,1
+sample_41,Activated_CD4_T_cell,-0.2808219469583717,NPDR,2
+sample_42,Activated_CD4_T_cell,-0.3676186910461229,NPDR,2
+sample_43,Activated_CD4_T_cell,-0.3202611707470166,NPDR,2
+sample_44,Activated_CD4_T_cell,-0.32088341927992026,NPDR,2
+sample_46,Activated_CD4_T_cell,-0.27738967558567357,NPDR,2
+sample_47,Activated_CD4_T_cell,-0.3761211617668671,NPDR,2
+sample_48,Activated_CD4_T_cell,-0.3417044583892759,NPDR,2
+sample_49,Activated_CD4_T_cell,-0.3179974678525805,NPDR,2
+sample_50,Activated_CD4_T_cell,-0.3431205041779893,NPDR,2
+sample_61,Activated_CD4_T_cell,-0.3295762506385019,NPDR/PDR + DME,3
+sample_62,Activated_CD4_T_cell,-0.25058062747283943,NPDR/PDR + DME,3
+sample_63,Activated_CD4_T_cell,-0.2969651492954852,NPDR/PDR + DME,3
+sample_64,Activated_CD4_T_cell,-0.2720872960366859,NPDR/PDR + DME,3
+sample_65,Activated_CD4_T_cell,-0.29760629084723805,NPDR/PDR + DME,3
+sample_66,Activated_CD4_T_cell,-0.305237558682033,NPDR/PDR + DME,3
+sample_67,Activated_CD4_T_cell,-0.3468924120264106,NPDR/PDR + DME,3
+sample_68,Activated_CD4_T_cell,-0.29235077594393966,NPDR/PDR + DME,3
+sample_69,Activated_CD4_T_cell,-0.2964011807090788,NPDR/PDR + DME,3
+sample_70,Activated_CD4_T_cell,-0.30833737769203234,NPDR/PDR + DME,3
+sample_01,Activated_CD8_T_cell,0.051276068770652265,healthy control,0
+sample_02,Activated_CD8_T_cell,0.1285928441855021,healthy control,0
+sample_03,Activated_CD8_T_cell,0.09216688381289623,healthy control,0
+sample_04,Activated_CD8_T_cell,0.018710250534061074,healthy control,0
+sample_05,Activated_CD8_T_cell,0.02112898676053732,healthy control,0
+sample_06,Activated_CD8_T_cell,0.07797404629735948,healthy control,0
+sample_07,Activated_CD8_T_cell,0.10684304773615018,healthy control,0
+sample_08,Activated_CD8_T_cell,0.049010389816130435,healthy control,0
+sample_09,Activated_CD8_T_cell,0.04999796390941326,healthy control,0
+sample_10,Activated_CD8_T_cell,0.03540628871523921,healthy control,0
+sample_21,Activated_CD8_T_cell,0.08127610026886463,diabetic,1
+sample_22,Activated_CD8_T_cell,0.0637085332415976,diabetic,1
+sample_23,Activated_CD8_T_cell,0.07977003676573999,diabetic,1
+sample_24,Activated_CD8_T_cell,0.06144606217956372,diabetic,1
+sample_25,Activated_CD8_T_cell,0.069005594567747,diabetic,1
+sample_26,Activated_CD8_T_cell,0.11722121975091511,diabetic,1
+sample_27,Activated_CD8_T_cell,0.017741686980908115,diabetic,1
+sample_28,Activated_CD8_T_cell,0.015821072867802922,diabetic,1
+sample_29,Activated_CD8_T_cell,0.06766934277315913,diabetic,1
+sample_30,Activated_CD8_T_cell,0.06962431063775597,diabetic,1
+sample_41,Activated_CD8_T_cell,0.10328542635990981,NPDR,2
+sample_42,Activated_CD8_T_cell,0.09082308579846417,NPDR,2
+sample_43,Activated_CD8_T_cell,0.08317857092750433,NPDR,2
+sample_44,Activated_CD8_T_cell,0.07636569462800608,NPDR,2
+sample_46,Activated_CD8_T_cell,0.09110266232715074,NPDR,2
+sample_47,Activated_CD8_T_cell,0.04174789257887619,NPDR,2
+sample_48,Activated_CD8_T_cell,0.03476169773702884,NPDR,2
+sample_49,Activated_CD8_T_cell,0.08163088489005885,NPDR,2
+sample_50,Activated_CD8_T_cell,0.047850985402967706,NPDR,2
+sample_61,Activated_CD8_T_cell,0.061734624291318395,NPDR/PDR + DME,3
+sample_62,Activated_CD8_T_cell,0.06856448813255127,NPDR/PDR + DME,3
+sample_63,Activated_CD8_T_cell,0.06974576250113246,NPDR/PDR + DME,3
+sample_64,Activated_CD8_T_cell,0.02283072303533454,NPDR/PDR + DME,3
+sample_65,Activated_CD8_T_cell,0.05244056473945158,NPDR/PDR + DME,3
+sample_66,Activated_CD8_T_cell,0.05293555751041366,NPDR/PDR + DME,3
+sample_67,Activated_CD8_T_cell,0.05764993035472676,NPDR/PDR + DME,3
+sample_68,Activated_CD8_T_cell,0.08518546201420024,NPDR/PDR + DME,3
+sample_69,Activated_CD8_T_cell,0.11648288393983937,NPDR/PDR + DME,3
+sample_70,Activated_CD8_T_cell,0.10538786303188878,NPDR/PDR + DME,3
+sample_01,Activated_dendritic_cell,0.23890374823769744,healthy control,0
+sample_02,Activated_dendritic_cell,0.2096557728070613,healthy control,0
+sample_03,Activated_dendritic_cell,0.23563992191250555,healthy control,0
+sample_04,Activated_dendritic_cell,0.22246085650052785,healthy control,0
+sample_05,Activated_dendritic_cell,0.2482843830584673,healthy control,0
+sample_06,Activated_dendritic_cell,0.2735450759193481,healthy control,0
+sample_07,Activated_dendritic_cell,0.2419828498232939,healthy control,0
+sample_08,Activated_dendritic_cell,0.235028396943499,healthy control,0
+sample_09,Activated_dendritic_cell,0.2418626883292571,healthy control,0
+sample_10,Activated_dendritic_cell,0.21397045949674293,healthy control,0
+sample_21,Activated_dendritic_cell,0.21019934806708968,diabetic,1
+sample_22,Activated_dendritic_cell,0.23523017713621774,diabetic,1
+sample_23,Activated_dendritic_cell,0.23320483678249743,diabetic,1
+sample_24,Activated_dendritic_cell,0.20225671476565416,diabetic,1
+sample_25,Activated_dendritic_cell,0.2587343972493118,diabetic,1
+sample_26,Activated_dendritic_cell,0.24384499242289404,diabetic,1
+sample_27,Activated_dendritic_cell,0.17354495754789345,diabetic,1
+sample_28,Activated_dendritic_cell,0.23124253175102075,diabetic,1
+sample_29,Activated_dendritic_cell,0.21866482416503233,diabetic,1
+sample_30,Activated_dendritic_cell,0.22848471996965483,diabetic,1
+sample_41,Activated_dendritic_cell,0.2396478216772736,NPDR,2
+sample_42,Activated_dendritic_cell,0.23236697907847745,NPDR,2
+sample_43,Activated_dendritic_cell,0.24438676693356434,NPDR,2
+sample_44,Activated_dendritic_cell,0.271728365311077,NPDR,2
+sample_46,Activated_dendritic_cell,0.22419097021343887,NPDR,2
+sample_47,Activated_dendritic_cell,0.24906074985652724,NPDR,2
+sample_48,Activated_dendritic_cell,0.20818076517329587,NPDR,2
+sample_49,Activated_dendritic_cell,0.25797366221057744,NPDR,2
+sample_50,Activated_dendritic_cell,0.21080027056266187,NPDR,2
+sample_61,Activated_dendritic_cell,0.269567642132806,NPDR/PDR + DME,3
+sample_62,Activated_dendritic_cell,0.20443914154355436,NPDR/PDR + DME,3
+sample_63,Activated_dendritic_cell,0.24359979512423394,NPDR/PDR + DME,3
+sample_64,Activated_dendritic_cell,0.21533275912391286,NPDR/PDR + DME,3
+sample_65,Activated_dendritic_cell,0.25146917896050097,NPDR/PDR + DME,3
+sample_66,Activated_dendritic_cell,0.24475270268101484,NPDR/PDR + DME,3
+sample_67,Activated_dendritic_cell,0.21192153337783132,NPDR/PDR + DME,3
+sample_68,Activated_dendritic_cell,0.2479500568198432,NPDR/PDR + DME,3
+sample_69,Activated_dendritic_cell,0.28835576360599985,NPDR/PDR + DME,3
+sample_70,Activated_dendritic_cell,0.22458584958692757,NPDR/PDR + DME,3
+sample_01,CD56bright_natural_killer_cell,0.2787679482739084,healthy control,0
+sample_02,CD56bright_natural_killer_cell,0.27650535924895264,healthy control,0
+sample_03,CD56bright_natural_killer_cell,0.2661760163779298,healthy control,0
+sample_04,CD56bright_natural_killer_cell,0.23663493000611932,healthy control,0
+sample_05,CD56bright_natural_killer_cell,0.265171090033395,healthy control,0
+sample_06,CD56bright_natural_killer_cell,0.3125713502677136,healthy control,0
+sample_07,CD56bright_natural_killer_cell,0.2889968101237177,healthy control,0
+sample_08,CD56bright_natural_killer_cell,0.28443147735385843,healthy control,0
+sample_09,CD56bright_natural_killer_cell,0.28320064862151767,healthy control,0
+sample_10,CD56bright_natural_killer_cell,0.2592212178239332,healthy control,0
+sample_21,CD56bright_natural_killer_cell,0.26662133926151377,diabetic,1
+sample_22,CD56bright_natural_killer_cell,0.2666414019606232,diabetic,1
+sample_23,CD56bright_natural_killer_cell,0.2821478655764856,diabetic,1
+sample_24,CD56bright_natural_killer_cell,0.29954232482840876,diabetic,1
+sample_25,CD56bright_natural_killer_cell,0.29057833233874447,diabetic,1
+sample_26,CD56bright_natural_killer_cell,0.2901603746979094,diabetic,1
+sample_27,CD56bright_natural_killer_cell,0.2380559553381472,diabetic,1
+sample_28,CD56bright_natural_killer_cell,0.26576223739230875,diabetic,1
+sample_29,CD56bright_natural_killer_cell,0.27069790406720773,diabetic,1
+sample_30,CD56bright_natural_killer_cell,0.2979030242650944,diabetic,1
+sample_41,CD56bright_natural_killer_cell,0.2754346982553878,NPDR,2
+sample_42,CD56bright_natural_killer_cell,0.29081537346213554,NPDR,2
+sample_43,CD56bright_natural_killer_cell,0.28240878031750155,NPDR,2
+sample_44,CD56bright_natural_killer_cell,0.2846231854337013,NPDR,2
+sample_46,CD56bright_natural_killer_cell,0.2899003031688754,NPDR,2
+sample_47,CD56bright_natural_killer_cell,0.2599788158143993,NPDR,2
+sample_48,CD56bright_natural_killer_cell,0.28307922251687223,NPDR,2
+sample_49,CD56bright_natural_killer_cell,0.26229294629796385,NPDR,2
+sample_50,CD56bright_natural_killer_cell,0.26474259680919376,NPDR,2
+sample_61,CD56bright_natural_killer_cell,0.259165460329327,NPDR/PDR + DME,3
+sample_62,CD56bright_natural_killer_cell,0.29480439417769955,NPDR/PDR + DME,3
+sample_63,CD56bright_natural_killer_cell,0.2636007562259831,NPDR/PDR + DME,3
+sample_64,CD56bright_natural_killer_cell,0.22967492941628992,NPDR/PDR + DME,3
+sample_65,CD56bright_natural_killer_cell,0.26286170188294505,NPDR/PDR + DME,3
+sample_66,CD56bright_natural_killer_cell,0.25683601979631443,NPDR/PDR + DME,3
+sample_67,CD56bright_natural_killer_cell,0.2714223534698838,NPDR/PDR + DME,3
+sample_68,CD56bright_natural_killer_cell,0.2719016725474815,NPDR/PDR + DME,3
+sample_69,CD56bright_natural_killer_cell,0.30879105051729333,NPDR/PDR + DME,3
+sample_70,CD56bright_natural_killer_cell,0.3257906552866322,NPDR/PDR + DME,3
+sample_01,CD56dim_natural_killer_cell,0.4532535600943575,healthy control,0
+sample_02,CD56dim_natural_killer_cell,0.40911405123345845,healthy control,0
+sample_03,CD56dim_natural_killer_cell,0.422966156609715,healthy control,0
+sample_04,CD56dim_natural_killer_cell,0.4959680504438554,healthy control,0
+sample_05,CD56dim_natural_killer_cell,0.48064253762658393,healthy control,0
+sample_06,CD56dim_natural_killer_cell,0.4105621585414303,healthy control,0
+sample_07,CD56dim_natural_killer_cell,0.43942022590815033,healthy control,0
+sample_08,CD56dim_natural_killer_cell,0.4550014609652209,healthy control,0
+sample_09,CD56dim_natural_killer_cell,0.4567909080282441,healthy control,0
+sample_10,CD56dim_natural_killer_cell,0.47061699340382046,healthy control,0
+sample_21,CD56dim_natural_killer_cell,0.409792531210917,diabetic,1
+sample_22,CD56dim_natural_killer_cell,0.45002758224702993,diabetic,1
+sample_23,CD56dim_natural_killer_cell,0.41707365333512636,diabetic,1
+sample_24,CD56dim_natural_killer_cell,0.4206200166697966,diabetic,1
+sample_25,CD56dim_natural_killer_cell,0.41318934728224305,diabetic,1
+sample_26,CD56dim_natural_killer_cell,0.4449091159544765,diabetic,1
+sample_27,CD56dim_natural_killer_cell,0.42548077069599916,diabetic,1
+sample_28,CD56dim_natural_killer_cell,0.3877543259359769,diabetic,1
+sample_29,CD56dim_natural_killer_cell,0.43488651658059,diabetic,1
+sample_30,CD56dim_natural_killer_cell,0.41934528665910314,diabetic,1
+sample_41,CD56dim_natural_killer_cell,0.45351974369994186,NPDR,2
+sample_42,CD56dim_natural_killer_cell,0.4121203064302546,NPDR,2
+sample_43,CD56dim_natural_killer_cell,0.41338573927726324,NPDR,2
+sample_44,CD56dim_natural_killer_cell,0.4637751483283303,NPDR,2
+sample_46,CD56dim_natural_killer_cell,0.4418171665525533,NPDR,2
+sample_47,CD56dim_natural_killer_cell,0.4586534421727184,NPDR,2
+sample_48,CD56dim_natural_killer_cell,0.43987348461803283,NPDR,2
+sample_49,CD56dim_natural_killer_cell,0.4599582980656692,NPDR,2
+sample_50,CD56dim_natural_killer_cell,0.45277378661264367,NPDR,2
+sample_61,CD56dim_natural_killer_cell,0.41407730746364746,NPDR/PDR + DME,3
+sample_62,CD56dim_natural_killer_cell,0.42160538908479994,NPDR/PDR + DME,3
+sample_63,CD56dim_natural_killer_cell,0.4040879209851211,NPDR/PDR + DME,3
+sample_64,CD56dim_natural_killer_cell,0.41433380008647996,NPDR/PDR + DME,3
+sample_65,CD56dim_natural_killer_cell,0.4324912243435943,NPDR/PDR + DME,3
+sample_66,CD56dim_natural_killer_cell,0.43368211158328557,NPDR/PDR + DME,3
+sample_67,CD56dim_natural_killer_cell,0.4755297006155533,NPDR/PDR + DME,3
+sample_68,CD56dim_natural_killer_cell,0.42495656125614023,NPDR/PDR + DME,3
+sample_69,CD56dim_natural_killer_cell,0.45792691239279487,NPDR/PDR + DME,3
+sample_70,CD56dim_natural_killer_cell,0.4161329192467148,NPDR/PDR + DME,3
+sample_01,Central_memory_CD4_T_cell,0.3737889404336539,healthy control,0
+sample_02,Central_memory_CD4_T_cell,0.39140449288014845,healthy control,0
+sample_03,Central_memory_CD4_T_cell,0.3824425801905895,healthy control,0
+sample_04,Central_memory_CD4_T_cell,0.4523682945086916,healthy control,0
+sample_05,Central_memory_CD4_T_cell,0.4364229713231781,healthy control,0
+sample_06,Central_memory_CD4_T_cell,0.3749143955467435,healthy control,0
+sample_07,Central_memory_CD4_T_cell,0.3966038384159446,healthy control,0
+sample_08,Central_memory_CD4_T_cell,0.3692294898679273,healthy control,0
+sample_09,Central_memory_CD4_T_cell,0.413385605861251,healthy control,0
+sample_10,Central_memory_CD4_T_cell,0.38572246555881384,healthy control,0
+sample_21,Central_memory_CD4_T_cell,0.3863624576270443,diabetic,1
+sample_22,Central_memory_CD4_T_cell,0.4292425478928486,diabetic,1
+sample_23,Central_memory_CD4_T_cell,0.3747313224972114,diabetic,1
+sample_24,Central_memory_CD4_T_cell,0.3818746854527758,diabetic,1
+sample_25,Central_memory_CD4_T_cell,0.37639707857315946,diabetic,1
+sample_26,Central_memory_CD4_T_cell,0.38338713982886646,diabetic,1
+sample_27,Central_memory_CD4_T_cell,0.43689583277456484,diabetic,1
+sample_28,Central_memory_CD4_T_cell,0.4294898653730025,diabetic,1
+sample_29,Central_memory_CD4_T_cell,0.3820411712509633,diabetic,1
+sample_30,Central_memory_CD4_T_cell,0.41317125217747974,diabetic,1
+sample_41,Central_memory_CD4_T_cell,0.3936978726529438,NPDR,2
+sample_42,Central_memory_CD4_T_cell,0.37783011999357213,NPDR,2
+sample_43,Central_memory_CD4_T_cell,0.38858187329485855,NPDR,2
+sample_44,Central_memory_CD4_T_cell,0.40676548916589733,NPDR,2
+sample_46,Central_memory_CD4_T_cell,0.4034125549945483,NPDR,2
+sample_47,Central_memory_CD4_T_cell,0.3990815284251909,NPDR,2
+sample_48,Central_memory_CD4_T_cell,0.3689815436633243,NPDR,2
+sample_49,Central_memory_CD4_T_cell,0.38768167208017684,NPDR,2
+sample_50,Central_memory_CD4_T_cell,0.39535975501288034,NPDR,2
+sample_61,Central_memory_CD4_T_cell,0.4386049782553012,NPDR/PDR + DME,3
+sample_62,Central_memory_CD4_T_cell,0.41567663835733876,NPDR/PDR + DME,3
+sample_63,Central_memory_CD4_T_cell,0.37977747459800254,NPDR/PDR + DME,3
+sample_64,Central_memory_CD4_T_cell,0.40882802953259817,NPDR/PDR + DME,3
+sample_65,Central_memory_CD4_T_cell,0.4024776011517793,NPDR/PDR + DME,3
+sample_66,Central_memory_CD4_T_cell,0.40099772174573606,NPDR/PDR + DME,3
+sample_67,Central_memory_CD4_T_cell,0.4237964569573999,NPDR/PDR + DME,3
+sample_68,Central_memory_CD4_T_cell,0.4335735717318886,NPDR/PDR + DME,3
+sample_69,Central_memory_CD4_T_cell,0.4361880788123354,NPDR/PDR + DME,3
+sample_70,Central_memory_CD4_T_cell,0.37853382150953013,NPDR/PDR + DME,3
+sample_01,Central_memory_CD8_T_cell,0.37275622100605776,healthy control,0
+sample_02,Central_memory_CD8_T_cell,0.3616557875438637,healthy control,0
+sample_03,Central_memory_CD8_T_cell,0.3921834501895749,healthy control,0
+sample_04,Central_memory_CD8_T_cell,0.4180938860258639,healthy control,0
+sample_05,Central_memory_CD8_T_cell,0.39958000969210683,healthy control,0
+sample_06,Central_memory_CD8_T_cell,0.46177014596316035,healthy control,0
+sample_07,Central_memory_CD8_T_cell,0.44696116497816607,healthy control,0
+sample_08,Central_memory_CD8_T_cell,0.3660565618120063,healthy control,0
+sample_09,Central_memory_CD8_T_cell,0.4419356173642197,healthy control,0
+sample_10,Central_memory_CD8_T_cell,0.3738102932574735,healthy control,0
+sample_21,Central_memory_CD8_T_cell,0.378552702788075,diabetic,1
+sample_22,Central_memory_CD8_T_cell,0.3898281522148702,diabetic,1
+sample_23,Central_memory_CD8_T_cell,0.3688550735926109,diabetic,1
+sample_24,Central_memory_CD8_T_cell,0.36828705749465307,diabetic,1
+sample_25,Central_memory_CD8_T_cell,0.3740120117283756,diabetic,1
+sample_26,Central_memory_CD8_T_cell,0.3895037945132697,diabetic,1
+sample_27,Central_memory_CD8_T_cell,0.35504223737239876,diabetic,1
+sample_28,Central_memory_CD8_T_cell,0.4584002408579663,diabetic,1
+sample_29,Central_memory_CD8_T_cell,0.38099861566723014,diabetic,1
+sample_30,Central_memory_CD8_T_cell,0.36467907248167214,diabetic,1
+sample_41,Central_memory_CD8_T_cell,0.44720567858968074,NPDR,2
+sample_42,Central_memory_CD8_T_cell,0.35291209546368785,NPDR,2
+sample_43,Central_memory_CD8_T_cell,0.4461527481597515,NPDR,2
+sample_44,Central_memory_CD8_T_cell,0.46888123752218275,NPDR,2
+sample_46,Central_memory_CD8_T_cell,0.36932161978572275,NPDR,2
+sample_47,Central_memory_CD8_T_cell,0.40208980673199374,NPDR,2
+sample_48,Central_memory_CD8_T_cell,0.3782910068273174,NPDR,2
+sample_49,Central_memory_CD8_T_cell,0.3866151142769359,NPDR,2
+sample_50,Central_memory_CD8_T_cell,0.4482954258339056,NPDR,2
+sample_61,Central_memory_CD8_T_cell,0.37719191014346604,NPDR/PDR + DME,3
+sample_62,Central_memory_CD8_T_cell,0.3744000663756288,NPDR/PDR + DME,3
+sample_63,Central_memory_CD8_T_cell,0.3868515132481344,NPDR/PDR + DME,3
+sample_64,Central_memory_CD8_T_cell,0.36579807555010785,NPDR/PDR + DME,3
+sample_65,Central_memory_CD8_T_cell,0.3724343077771827,NPDR/PDR + DME,3
+sample_66,Central_memory_CD8_T_cell,0.39287035258368935,NPDR/PDR + DME,3
+sample_67,Central_memory_CD8_T_cell,0.3911416356538809,NPDR/PDR + DME,3
+sample_68,Central_memory_CD8_T_cell,0.3749717347540564,NPDR/PDR + DME,3
+sample_69,Central_memory_CD8_T_cell,0.4032676569259006,NPDR/PDR + DME,3
+sample_70,Central_memory_CD8_T_cell,0.3691769606275266,NPDR/PDR + DME,3
+sample_01,Effector_memory_CD4_T_cell,0.2788956454839313,healthy control,0
+sample_02,Effector_memory_CD4_T_cell,0.2651272740798296,healthy control,0
+sample_03,Effector_memory_CD4_T_cell,0.23235068621637542,healthy control,0
+sample_04,Effector_memory_CD4_T_cell,0.3313636862089573,healthy control,0
+sample_05,Effector_memory_CD4_T_cell,0.26228854186541023,healthy control,0
+sample_06,Effector_memory_CD4_T_cell,0.27669483584348536,healthy control,0
+sample_07,Effector_memory_CD4_T_cell,0.2932641985528447,healthy control,0
+sample_08,Effector_memory_CD4_T_cell,0.26155635581444164,healthy control,0
+sample_09,Effector_memory_CD4_T_cell,0.306789899992349,healthy control,0
+sample_10,Effector_memory_CD4_T_cell,0.23509781260166127,healthy control,0
+sample_21,Effector_memory_CD4_T_cell,0.2342323058918673,diabetic,1
+sample_22,Effector_memory_CD4_T_cell,0.30387710759843756,diabetic,1
+sample_23,Effector_memory_CD4_T_cell,0.32812228078423195,diabetic,1
+sample_24,Effector_memory_CD4_T_cell,0.3482614241495137,diabetic,1
+sample_25,Effector_memory_CD4_T_cell,0.280058759994975,diabetic,1
+sample_26,Effector_memory_CD4_T_cell,0.26651152021805946,diabetic,1
+sample_27,Effector_memory_CD4_T_cell,0.2342617213736814,diabetic,1
+sample_28,Effector_memory_CD4_T_cell,0.25362011090112113,diabetic,1
+sample_29,Effector_memory_CD4_T_cell,0.22297133180782686,diabetic,1
+sample_30,Effector_memory_CD4_T_cell,0.3294670759391218,diabetic,1
+sample_41,Effector_memory_CD4_T_cell,0.28597853816041197,NPDR,2
+sample_42,Effector_memory_CD4_T_cell,0.34990728786374103,NPDR,2
+sample_43,Effector_memory_CD4_T_cell,0.3170774387280404,NPDR,2
+sample_44,Effector_memory_CD4_T_cell,0.30332410149770506,NPDR,2
+sample_46,Effector_memory_CD4_T_cell,0.3145402227938377,NPDR,2
+sample_47,Effector_memory_CD4_T_cell,0.31046707270692314,NPDR,2
+sample_48,Effector_memory_CD4_T_cell,0.3393805943777504,NPDR,2
+sample_49,Effector_memory_CD4_T_cell,0.26816142341366195,NPDR,2
+sample_50,Effector_memory_CD4_T_cell,0.3294548166444536,NPDR,2
+sample_61,Effector_memory_CD4_T_cell,0.289498169693494,NPDR/PDR + DME,3
+sample_62,Effector_memory_CD4_T_cell,0.26870120522034163,NPDR/PDR + DME,3
+sample_63,Effector_memory_CD4_T_cell,0.21413679245976425,NPDR/PDR + DME,3
+sample_64,Effector_memory_CD4_T_cell,0.21806316020907246,NPDR/PDR + DME,3
+sample_65,Effector_memory_CD4_T_cell,0.26006193714036785,NPDR/PDR + DME,3
+sample_66,Effector_memory_CD4_T_cell,0.25150480835027983,NPDR/PDR + DME,3
+sample_67,Effector_memory_CD4_T_cell,0.31399393215352817,NPDR/PDR + DME,3
+sample_68,Effector_memory_CD4_T_cell,0.2545460719015165,NPDR/PDR + DME,3
+sample_69,Effector_memory_CD4_T_cell,0.25782804055619835,NPDR/PDR + DME,3
+sample_70,Effector_memory_CD4_T_cell,0.28282031702803473,NPDR/PDR + DME,3
+sample_01,Effector_memory_CD8_T_cell,0.03770705501383236,healthy control,0
+sample_02,Effector_memory_CD8_T_cell,0.02396045692205703,healthy control,0
+sample_03,Effector_memory_CD8_T_cell,-0.02609290852942217,healthy control,0
+sample_04,Effector_memory_CD8_T_cell,0.03666775262691736,healthy control,0
+sample_05,Effector_memory_CD8_T_cell,0.005881160795752871,healthy control,0
+sample_06,Effector_memory_CD8_T_cell,0.015008332179498924,healthy control,0
+sample_07,Effector_memory_CD8_T_cell,0.023048736048731616,healthy control,0
+sample_08,Effector_memory_CD8_T_cell,0.0194165185822531,healthy control,0
+sample_09,Effector_memory_CD8_T_cell,0.01776645114377652,healthy control,0
+sample_10,Effector_memory_CD8_T_cell,0.056194120115134055,healthy control,0
+sample_21,Effector_memory_CD8_T_cell,-0.015892042536148874,diabetic,1
+sample_22,Effector_memory_CD8_T_cell,0.04718597100012196,diabetic,1
+sample_23,Effector_memory_CD8_T_cell,0.0058262439037989324,diabetic,1
+sample_24,Effector_memory_CD8_T_cell,-0.024251475124141844,diabetic,1
+sample_25,Effector_memory_CD8_T_cell,0.036602710717944326,diabetic,1
+sample_26,Effector_memory_CD8_T_cell,-0.013609328308336761,diabetic,1
+sample_27,Effector_memory_CD8_T_cell,-0.02532172471980425,diabetic,1
+sample_28,Effector_memory_CD8_T_cell,0.003932216478139361,diabetic,1
+sample_29,Effector_memory_CD8_T_cell,-0.03146741484460435,diabetic,1
+sample_30,Effector_memory_CD8_T_cell,0.018498332991008035,diabetic,1
+sample_41,Effector_memory_CD8_T_cell,0.04175744232896217,NPDR,2
+sample_42,Effector_memory_CD8_T_cell,-0.05425904055550594,NPDR,2
+sample_43,Effector_memory_CD8_T_cell,0.022166455279674983,NPDR,2
+sample_44,Effector_memory_CD8_T_cell,0.01252748119310311,NPDR,2
+sample_46,Effector_memory_CD8_T_cell,0.0027301900236056877,NPDR,2
+sample_47,Effector_memory_CD8_T_cell,0.03496286379789759,NPDR,2
+sample_48,Effector_memory_CD8_T_cell,-0.03299946307504711,NPDR,2
+sample_49,Effector_memory_CD8_T_cell,0.0501750409145999,NPDR,2
+sample_50,Effector_memory_CD8_T_cell,0.02134058580036225,NPDR,2
+sample_61,Effector_memory_CD8_T_cell,0.02639233277005457,NPDR/PDR + DME,3
+sample_62,Effector_memory_CD8_T_cell,0.001547230821672232,NPDR/PDR + DME,3
+sample_63,Effector_memory_CD8_T_cell,-0.0017655288099331877,NPDR/PDR + DME,3
+sample_64,Effector_memory_CD8_T_cell,0.05524093955894435,NPDR/PDR + DME,3
+sample_65,Effector_memory_CD8_T_cell,0.05148291320001194,NPDR/PDR + DME,3
+sample_66,Effector_memory_CD8_T_cell,0.04084243759795094,NPDR/PDR + DME,3
+sample_67,Effector_memory_CD8_T_cell,0.03488291113959787,NPDR/PDR + DME,3
+sample_68,Effector_memory_CD8_T_cell,0.040564745337348794,NPDR/PDR + DME,3
+sample_69,Effector_memory_CD8_T_cell,0.012533361405119708,NPDR/PDR + DME,3
+sample_70,Effector_memory_CD8_T_cell,-0.01731899831010168,NPDR/PDR + DME,3
+sample_01,Eosinophil,0.05256946396359731,healthy control,0
+sample_02,Eosinophil,-0.014928114982452839,healthy control,0
+sample_03,Eosinophil,-0.015190388169783447,healthy control,0
+sample_04,Eosinophil,0.08860609076127803,healthy control,0
+sample_05,Eosinophil,0.1288797279441569,healthy control,0
+sample_06,Eosinophil,-0.016597099592010892,healthy control,0
+sample_07,Eosinophil,-0.018782627685775,healthy control,0
+sample_08,Eosinophil,0.01047101772065488,healthy control,0
+sample_09,Eosinophil,0.0015312625079288262,healthy control,0
+sample_10,Eosinophil,0.0602968654207324,healthy control,0
+sample_21,Eosinophil,-0.029600716966054187,diabetic,1
+sample_22,Eosinophil,-0.01773855849384746,diabetic,1
+sample_23,Eosinophil,-0.02555820416844044,diabetic,1
+sample_24,Eosinophil,0.01574583441835356,diabetic,1
+sample_25,Eosinophil,-0.016605338255261025,diabetic,1
+sample_26,Eosinophil,0.0315760574509423,diabetic,1
+sample_27,Eosinophil,-0.001188462234364395,diabetic,1
+sample_28,Eosinophil,0.2306958989687447,diabetic,1
+sample_29,Eosinophil,-0.020763010892003442,diabetic,1
+sample_30,Eosinophil,0.004931525522637877,diabetic,1
+sample_41,Eosinophil,0.0019299456939536963,NPDR,2
+sample_42,Eosinophil,-0.03181337628763144,NPDR,2
+sample_43,Eosinophil,-0.029112445223125897,NPDR,2
+sample_44,Eosinophil,-0.04334358908231377,NPDR,2
+sample_46,Eosinophil,0.016318929643338368,NPDR,2
+sample_47,Eosinophil,0.012288689389809542,NPDR,2
+sample_48,Eosinophil,0.06420654908273667,NPDR,2
+sample_49,Eosinophil,0.052844810478986703,NPDR,2
+sample_50,Eosinophil,-0.006714631448719958,NPDR,2
+sample_61,Eosinophil,0.00014678797824300272,NPDR/PDR + DME,3
+sample_62,Eosinophil,0.2249914380239613,NPDR/PDR + DME,3
+sample_63,Eosinophil,0.003705514356455739,NPDR/PDR + DME,3
+sample_64,Eosinophil,0.11736399353834154,NPDR/PDR + DME,3
+sample_65,Eosinophil,0.02742525031336007,NPDR/PDR + DME,3
+sample_66,Eosinophil,0.001037318731971977,NPDR/PDR + DME,3
+sample_67,Eosinophil,0.038454400059273856,NPDR/PDR + DME,3
+sample_68,Eosinophil,0.012291841730731301,NPDR/PDR + DME,3
+sample_69,Eosinophil,-0.06033397513174023,NPDR/PDR + DME,3
+sample_70,Eosinophil,-0.03299097592837404,NPDR/PDR + DME,3
+sample_01,Gamma_delta_T_cell,0.22669058773010098,healthy control,0
+sample_02,Gamma_delta_T_cell,0.24118259093977917,healthy control,0
+sample_03,Gamma_delta_T_cell,0.2466823080989169,healthy control,0
+sample_04,Gamma_delta_T_cell,0.2613568278117632,healthy control,0
+sample_05,Gamma_delta_T_cell,0.208894558996404,healthy control,0
+sample_06,Gamma_delta_T_cell,0.2642853856930083,healthy control,0
+sample_07,Gamma_delta_T_cell,0.24858243947673397,healthy control,0
+sample_08,Gamma_delta_T_cell,0.21862603642654976,healthy control,0
+sample_09,Gamma_delta_T_cell,0.2217224175035635,healthy control,0
+sample_10,Gamma_delta_T_cell,0.23875101799198556,healthy control,0
+sample_21,Gamma_delta_T_cell,0.24844443184146262,diabetic,1
+sample_22,Gamma_delta_T_cell,0.24479942611990121,diabetic,1
+sample_23,Gamma_delta_T_cell,0.24112248000631778,diabetic,1
+sample_24,Gamma_delta_T_cell,0.2836294424684954,diabetic,1
+sample_25,Gamma_delta_T_cell,0.23354467208473884,diabetic,1
+sample_26,Gamma_delta_T_cell,0.216220864796758,diabetic,1
+sample_27,Gamma_delta_T_cell,0.22040642616239375,diabetic,1
+sample_28,Gamma_delta_T_cell,0.22119923686788037,diabetic,1
+sample_29,Gamma_delta_T_cell,0.2598405663236233,diabetic,1
+sample_30,Gamma_delta_T_cell,0.26315864827975394,diabetic,1
+sample_41,Gamma_delta_T_cell,0.2637866145353982,NPDR,2
+sample_42,Gamma_delta_T_cell,0.26787185916347456,NPDR,2
+sample_43,Gamma_delta_T_cell,0.23487212704926097,NPDR,2
+sample_44,Gamma_delta_T_cell,0.26191303544604494,NPDR,2
+sample_46,Gamma_delta_T_cell,0.237584644302418,NPDR,2
+sample_47,Gamma_delta_T_cell,0.2561819721394911,NPDR,2
+sample_48,Gamma_delta_T_cell,0.23267459027500362,NPDR,2
+sample_49,Gamma_delta_T_cell,0.25926455362599193,NPDR,2
+sample_50,Gamma_delta_T_cell,0.23466045797169965,NPDR,2
+sample_61,Gamma_delta_T_cell,0.2677679333364387,NPDR/PDR + DME,3
+sample_62,Gamma_delta_T_cell,0.23398506811779068,NPDR/PDR + DME,3
+sample_63,Gamma_delta_T_cell,0.2204780165019645,NPDR/PDR + DME,3
+sample_64,Gamma_delta_T_cell,0.22356387609070685,NPDR/PDR + DME,3
+sample_65,Gamma_delta_T_cell,0.22647775470370968,NPDR/PDR + DME,3
+sample_66,Gamma_delta_T_cell,0.2202910548552822,NPDR/PDR + DME,3
+sample_67,Gamma_delta_T_cell,0.25404152053021356,NPDR/PDR + DME,3
+sample_68,Gamma_delta_T_cell,0.22774593748765234,NPDR/PDR + DME,3
+sample_69,Gamma_delta_T_cell,0.2533385611747392,NPDR/PDR + DME,3
+sample_70,Gamma_delta_T_cell,0.27632994151624846,NPDR/PDR + DME,3
+sample_01,Immature_B_cell,-0.14610092798013083,healthy control,0
+sample_02,Immature_B_cell,-0.1474185019053118,healthy control,0
+sample_03,Immature_B_cell,-0.18282909432241573,healthy control,0
+sample_04,Immature_B_cell,-0.20324567125349954,healthy control,0
+sample_05,Immature_B_cell,-0.11327096691718037,healthy control,0
+sample_06,Immature_B_cell,-0.17374372752108178,healthy control,0
+sample_07,Immature_B_cell,-0.1521034634990234,healthy control,0
+sample_08,Immature_B_cell,-0.14332962862487342,healthy control,0
+sample_09,Immature_B_cell,-0.05003433407933338,healthy control,0
+sample_10,Immature_B_cell,-0.21561559210995865,healthy control,0
+sample_21,Immature_B_cell,-0.1472333465358463,diabetic,1
+sample_22,Immature_B_cell,-0.1362833539951433,diabetic,1
+sample_23,Immature_B_cell,-0.1714304479896419,diabetic,1
+sample_24,Immature_B_cell,-0.16201673304239242,diabetic,1
+sample_25,Immature_B_cell,-0.08606351609030286,diabetic,1
+sample_26,Immature_B_cell,-0.1614101566941746,diabetic,1
+sample_27,Immature_B_cell,-0.1765589115671941,diabetic,1
+sample_28,Immature_B_cell,-0.10048462509062704,diabetic,1
+sample_29,Immature_B_cell,-0.1581692543310318,diabetic,1
+sample_30,Immature_B_cell,-0.09456705519548846,diabetic,1
+sample_41,Immature_B_cell,-0.1362948838342119,NPDR,2
+sample_42,Immature_B_cell,-0.14426331737808668,NPDR,2
+sample_43,Immature_B_cell,-0.10809652088702482,NPDR,2
+sample_44,Immature_B_cell,-0.12787949770793813,NPDR,2
+sample_46,Immature_B_cell,-0.12258420261960955,NPDR,2
+sample_47,Immature_B_cell,-0.08760350689190644,NPDR,2
+sample_48,Immature_B_cell,-0.15315198135843724,NPDR,2
+sample_49,Immature_B_cell,-0.14639228270080995,NPDR,2
+sample_50,Immature_B_cell,-0.1561079768203798,NPDR,2
+sample_61,Immature_B_cell,-0.05500964718154646,NPDR/PDR + DME,3
+sample_62,Immature_B_cell,-0.0875011504337292,NPDR/PDR + DME,3
+sample_63,Immature_B_cell,-0.11114763058457929,NPDR/PDR + DME,3
+sample_64,Immature_B_cell,-0.03345073579656625,NPDR/PDR + DME,3
+sample_65,Immature_B_cell,-0.052250513911106855,NPDR/PDR + DME,3
+sample_66,Immature_B_cell,-0.06996645305346273,NPDR/PDR + DME,3
+sample_67,Immature_B_cell,-0.1374644318514664,NPDR/PDR + DME,3
+sample_68,Immature_B_cell,-0.04826173780841406,NPDR/PDR + DME,3
+sample_69,Immature_B_cell,-0.030603193313241628,NPDR/PDR + DME,3
+sample_70,Immature_B_cell,-0.13436643284964592,NPDR/PDR + DME,3
+sample_01,Immature_dendritic_cell,0.46522588429234457,healthy control,0
+sample_02,Immature_dendritic_cell,0.4188330400920846,healthy control,0
+sample_03,Immature_dendritic_cell,0.40478832767209166,healthy control,0
+sample_04,Immature_dendritic_cell,0.4443174396306646,healthy control,0
+sample_05,Immature_dendritic_cell,0.44716425863443726,healthy control,0
+sample_06,Immature_dendritic_cell,0.46361439015145234,healthy control,0
+sample_07,Immature_dendritic_cell,0.446024561303246,healthy control,0
+sample_08,Immature_dendritic_cell,0.430531546073896,healthy control,0
+sample_09,Immature_dendritic_cell,0.40392656900634194,healthy control,0
+sample_10,Immature_dendritic_cell,0.43231533428987196,healthy control,0
+sample_21,Immature_dendritic_cell,0.4388295279042859,diabetic,1
+sample_22,Immature_dendritic_cell,0.4297882106582472,diabetic,1
+sample_23,Immature_dendritic_cell,0.4498103149744649,diabetic,1
+sample_24,Immature_dendritic_cell,0.49838782103290735,diabetic,1
+sample_25,Immature_dendritic_cell,0.45819825689358334,diabetic,1
+sample_26,Immature_dendritic_cell,0.4528562221063093,diabetic,1
+sample_27,Immature_dendritic_cell,0.4278128529338895,diabetic,1
+sample_28,Immature_dendritic_cell,0.44411345007001973,diabetic,1
+sample_29,Immature_dendritic_cell,0.43474056855029264,diabetic,1
+sample_30,Immature_dendritic_cell,0.4655842870463551,diabetic,1
+sample_41,Immature_dendritic_cell,0.46914232750641327,NPDR,2
+sample_42,Immature_dendritic_cell,0.4508755647058186,NPDR,2
+sample_43,Immature_dendritic_cell,0.462944378340403,NPDR,2
+sample_44,Immature_dendritic_cell,0.44458946813361444,NPDR,2
+sample_46,Immature_dendritic_cell,0.4334985190401635,NPDR,2
+sample_47,Immature_dendritic_cell,0.42746498776281455,NPDR,2
+sample_48,Immature_dendritic_cell,0.4380943807951765,NPDR,2
+sample_49,Immature_dendritic_cell,0.4493784347791233,NPDR,2
+sample_50,Immature_dendritic_cell,0.4244223113454308,NPDR,2
+sample_61,Immature_dendritic_cell,0.426936737620356,NPDR/PDR + DME,3
+sample_62,Immature_dendritic_cell,0.43592821423805445,NPDR/PDR + DME,3
+sample_63,Immature_dendritic_cell,0.4401851133235508,NPDR/PDR + DME,3
+sample_64,Immature_dendritic_cell,0.41060855447657657,NPDR/PDR + DME,3
+sample_65,Immature_dendritic_cell,0.43888412756164263,NPDR/PDR + DME,3
+sample_66,Immature_dendritic_cell,0.4310813344801978,NPDR/PDR + DME,3
+sample_67,Immature_dendritic_cell,0.42846840975935874,NPDR/PDR + DME,3
+sample_68,Immature_dendritic_cell,0.4790961448733759,NPDR/PDR + DME,3
+sample_69,Immature_dendritic_cell,0.47648306418957764,NPDR/PDR + DME,3
+sample_70,Immature_dendritic_cell,0.45543456504358554,NPDR/PDR + DME,3
+sample_01,MDSC,-0.3599445328441064,healthy control,0
+sample_02,MDSC,-0.2655533128393903,healthy control,0
+sample_03,MDSC,-0.32287857747859,healthy control,0
+sample_04,MDSC,-0.33552569911929875,healthy control,0
+sample_05,MDSC,-0.25729233306869886,healthy control,0
+sample_06,MDSC,-0.3593979937728659,healthy control,0
+sample_07,MDSC,-0.355688963047005,healthy control,0
+sample_08,MDSC,-0.3592989709003846,healthy control,0
+sample_09,MDSC,-0.20953608950683947,healthy control,0
+sample_10,MDSC,-0.3185706651610733,healthy control,0
+sample_21,MDSC,-0.3108210397934451,diabetic,1
+sample_22,MDSC,-0.2718694070966602,diabetic,1
+sample_23,MDSC,-0.38644246698767454,diabetic,1
+sample_24,MDSC,-0.39390666355444864,diabetic,1
+sample_25,MDSC,-0.34938065961446,diabetic,1
+sample_26,MDSC,-0.3870401985319865,diabetic,1
+sample_27,MDSC,-0.32599744401021175,diabetic,1
+sample_28,MDSC,-0.2542938564071774,diabetic,1
+sample_29,MDSC,-0.3891392724585112,diabetic,1
+sample_30,MDSC,-0.34623913964225167,diabetic,1
+sample_41,MDSC,-0.3033606512755703,NPDR,2
+sample_42,MDSC,-0.32930317713246615,NPDR,2
+sample_43,MDSC,-0.2841451198269008,NPDR,2
+sample_44,MDSC,-0.34336881715592626,NPDR,2
+sample_46,MDSC,-0.3515394967209728,NPDR,2
+sample_47,MDSC,-0.28153451329681595,NPDR,2
+sample_48,MDSC,-0.3860278175288086,NPDR,2
+sample_49,MDSC,-0.31954943008935277,NPDR,2
+sample_50,MDSC,-0.3140537462438336,NPDR,2
+sample_61,MDSC,-0.23311853957667225,NPDR/PDR + DME,3
+sample_62,MDSC,-0.34927527867730246,NPDR/PDR + DME,3
+sample_63,MDSC,-0.25942796115446604,NPDR/PDR + DME,3
+sample_64,MDSC,-0.23249214032279114,NPDR/PDR + DME,3
+sample_65,MDSC,-0.2394999835212571,NPDR/PDR + DME,3
+sample_66,MDSC,-0.2165165011018371,NPDR/PDR + DME,3
+sample_67,MDSC,-0.21597889458351785,NPDR/PDR + DME,3
+sample_68,MDSC,-0.281909310230905,NPDR/PDR + DME,3
+sample_69,MDSC,-0.23366616162680867,NPDR/PDR + DME,3
+sample_70,MDSC,-0.3881747831021177,NPDR/PDR + DME,3
+sample_01,Macrophage,-0.19172786688743765,healthy control,0
+sample_02,Macrophage,-0.14088433773739464,healthy control,0
+sample_03,Macrophage,-0.15155981850354122,healthy control,0
+sample_04,Macrophage,-0.14495961181625272,healthy control,0
+sample_05,Macrophage,-0.14071705300792126,healthy control,0
+sample_06,Macrophage,-0.15578538810285167,healthy control,0
+sample_07,Macrophage,-0.15268946602730893,healthy control,0
+sample_08,Macrophage,-0.14178751086235916,healthy control,0
+sample_09,Macrophage,-0.11958327882999614,healthy control,0
+sample_10,Macrophage,-0.17473319506205837,healthy control,0
+sample_21,Macrophage,-0.15342342345132454,diabetic,1
+sample_22,Macrophage,-0.16022776079664017,diabetic,1
+sample_23,Macrophage,-0.15954478061587982,diabetic,1
+sample_24,Macrophage,-0.13465251445337123,diabetic,1
+sample_25,Macrophage,-0.14176943125513836,diabetic,1
+sample_26,Macrophage,-0.15328455582879227,diabetic,1
+sample_27,Macrophage,-0.15860241624242186,diabetic,1
+sample_28,Macrophage,-0.027949073833362925,diabetic,1
+sample_29,Macrophage,-0.15631112342010114,diabetic,1
+sample_30,Macrophage,-0.11549968028908789,diabetic,1
+sample_41,Macrophage,-0.15108738733947566,NPDR,2
+sample_42,Macrophage,-0.18115558727387368,NPDR,2
+sample_43,Macrophage,-0.12465331186391783,NPDR,2
+sample_44,Macrophage,-0.1391620768071753,NPDR,2
+sample_46,Macrophage,-0.14709408783254022,NPDR,2
+sample_47,Macrophage,-0.16402039725246753,NPDR,2
+sample_48,Macrophage,-0.16919169576387985,NPDR,2
+sample_49,Macrophage,-0.14279984230216622,NPDR,2
+sample_50,Macrophage,-0.1612945242314847,NPDR,2
+sample_61,Macrophage,-0.11587927386051404,NPDR/PDR + DME,3
+sample_62,Macrophage,-0.12549923706856805,NPDR/PDR + DME,3
+sample_63,Macrophage,-0.11503525576284784,NPDR/PDR + DME,3
+sample_64,Macrophage,-0.10176172665315406,NPDR/PDR + DME,3
+sample_65,Macrophage,-0.11761296310711375,NPDR/PDR + DME,3
+sample_66,Macrophage,-0.09531555027164305,NPDR/PDR + DME,3
+sample_67,Macrophage,-0.11895671578951268,NPDR/PDR + DME,3
+sample_68,Macrophage,-0.09268940381846107,NPDR/PDR + DME,3
+sample_69,Macrophage,-0.008222681186298578,NPDR/PDR + DME,3
+sample_70,Macrophage,-0.17377908054614968,NPDR/PDR + DME,3
+sample_01,Mast_cell,-0.2510489245861152,healthy control,0
+sample_02,Mast_cell,-0.09743927100244987,healthy control,0
+sample_03,Mast_cell,-0.2554785552885106,healthy control,0
+sample_04,Mast_cell,-0.05860562821539801,healthy control,0
+sample_05,Mast_cell,-0.13434515956220347,healthy control,0
+sample_06,Mast_cell,-0.27646267575766414,healthy control,0
+sample_07,Mast_cell,-0.27480678708959577,healthy control,0
+sample_08,Mast_cell,-0.2734066414419391,healthy control,0
+sample_09,Mast_cell,-0.23845617072333766,healthy control,0
+sample_10,Mast_cell,-0.18822656986607703,healthy control,0
+sample_21,Mast_cell,-0.23843404483075245,diabetic,1
+sample_22,Mast_cell,-0.21473625734142168,diabetic,1
+sample_23,Mast_cell,-0.29260223081291953,diabetic,1
+sample_24,Mast_cell,-0.22524237616411977,diabetic,1
+sample_25,Mast_cell,-0.2253186591993035,diabetic,1
+sample_26,Mast_cell,-0.31482934338976054,diabetic,1
+sample_27,Mast_cell,-0.25582055185426295,diabetic,1
+sample_28,Mast_cell,-0.171327996496384,diabetic,1
+sample_29,Mast_cell,-0.3012537852952648,diabetic,1
+sample_30,Mast_cell,-0.20856711078567555,diabetic,1
+sample_41,Mast_cell,-0.22888403389139175,NPDR,2
+sample_42,Mast_cell,-0.28870170849652926,NPDR,2
+sample_43,Mast_cell,-0.23028303773920047,NPDR,2
+sample_44,Mast_cell,-0.27302657400320185,NPDR,2
+sample_46,Mast_cell,-0.11714224503254692,NPDR,2
+sample_47,Mast_cell,-0.2510549640093696,NPDR,2
+sample_48,Mast_cell,-0.22799525254808364,NPDR,2
+sample_49,Mast_cell,-0.2073845437118769,NPDR,2
+sample_50,Mast_cell,-0.2752059803475222,NPDR,2
+sample_61,Mast_cell,-0.20568193236880272,NPDR/PDR + DME,3
+sample_62,Mast_cell,-0.06451969652802328,NPDR/PDR + DME,3
+sample_63,Mast_cell,-0.20565301325357524,NPDR/PDR + DME,3
+sample_64,Mast_cell,-0.15452190705059227,NPDR/PDR + DME,3
+sample_65,Mast_cell,-0.17656165339803034,NPDR/PDR + DME,3
+sample_66,Mast_cell,-0.20510736233353763,NPDR/PDR + DME,3
+sample_67,Mast_cell,-0.19255915932592785,NPDR/PDR + DME,3
+sample_68,Mast_cell,-0.2078026532124001,NPDR/PDR + DME,3
+sample_69,Mast_cell,-0.16197141647483695,NPDR/PDR + DME,3
+sample_70,Mast_cell,-0.2652568008370922,NPDR/PDR + DME,3
+sample_01,Memory_B_cell,0.29635485707654413,healthy control,0
+sample_02,Memory_B_cell,0.3111678795717558,healthy control,0
+sample_03,Memory_B_cell,0.31976042559924983,healthy control,0
+sample_04,Memory_B_cell,0.2414519080058143,healthy control,0
+sample_05,Memory_B_cell,0.24984328668952352,healthy control,0
+sample_06,Memory_B_cell,0.33690310306423804,healthy control,0
+sample_07,Memory_B_cell,0.344453822894117,healthy control,0
+sample_08,Memory_B_cell,0.29275907994973066,healthy control,0
+sample_09,Memory_B_cell,0.27203888088493705,healthy control,0
+sample_10,Memory_B_cell,0.25725026041636445,healthy control,0
+sample_21,Memory_B_cell,0.31123079081955235,diabetic,1
+sample_22,Memory_B_cell,0.25393244276036225,diabetic,1
+sample_23,Memory_B_cell,0.27382019308828665,diabetic,1
+sample_24,Memory_B_cell,0.26211621024005427,diabetic,1
+sample_25,Memory_B_cell,0.28090066105107764,diabetic,1
+sample_26,Memory_B_cell,0.3298236761627161,diabetic,1
+sample_27,Memory_B_cell,0.24712974784079728,diabetic,1
+sample_28,Memory_B_cell,0.2126616906156279,diabetic,1
+sample_29,Memory_B_cell,0.3125584146791781,diabetic,1
+sample_30,Memory_B_cell,0.251851465042931,diabetic,1
+sample_41,Memory_B_cell,0.24750502800729166,NPDR,2
+sample_42,Memory_B_cell,0.29851261737584667,NPDR,2
+sample_43,Memory_B_cell,0.27430023330899056,NPDR,2
+sample_44,Memory_B_cell,0.29456471783263155,NPDR,2
+sample_46,Memory_B_cell,0.31357904952586935,NPDR,2
+sample_47,Memory_B_cell,0.24146814367579525,NPDR,2
+sample_48,Memory_B_cell,0.281757685367539,NPDR,2
+sample_49,Memory_B_cell,0.24193129806870423,NPDR,2
+sample_50,Memory_B_cell,0.277401543044424,NPDR,2
+sample_61,Memory_B_cell,0.2295774719553222,NPDR/PDR + DME,3
+sample_62,Memory_B_cell,0.19546385863983776,NPDR/PDR + DME,3
+sample_63,Memory_B_cell,0.2803734632466954,NPDR/PDR + DME,3
+sample_64,Memory_B_cell,0.21373772983785158,NPDR/PDR + DME,3
+sample_65,Memory_B_cell,0.2748332528008861,NPDR/PDR + DME,3
+sample_66,Memory_B_cell,0.2530129996120757,NPDR/PDR + DME,3
+sample_67,Memory_B_cell,0.2468235376813535,NPDR/PDR + DME,3
+sample_68,Memory_B_cell,0.25955397605110053,NPDR/PDR + DME,3
+sample_69,Memory_B_cell,0.26638964054821634,NPDR/PDR + DME,3
+sample_70,Memory_B_cell,0.26412649795906407,NPDR/PDR + DME,3
+sample_01,Monocyte,0.5475576596208318,healthy control,0
+sample_02,Monocyte,0.5494045466229045,healthy control,0
+sample_03,Monocyte,0.5662393448078633,healthy control,0
+sample_04,Monocyte,0.5825345522686411,healthy control,0
+sample_05,Monocyte,0.5674211553999481,healthy control,0
+sample_06,Monocyte,0.5776862931932311,healthy control,0
+sample_07,Monocyte,0.5714045199690483,healthy control,0
+sample_08,Monocyte,0.5879146191001715,healthy control,0
+sample_09,Monocyte,0.5357256276653976,healthy control,0
+sample_10,Monocyte,0.5363615850750365,healthy control,0
+sample_21,Monocyte,0.5507440287765896,diabetic,1
+sample_22,Monocyte,0.5451233376976725,diabetic,1
+sample_23,Monocyte,0.5886161163042581,diabetic,1
+sample_24,Monocyte,0.5421512678605768,diabetic,1
+sample_25,Monocyte,0.5763925537009952,diabetic,1
+sample_26,Monocyte,0.5659817302811798,diabetic,1
+sample_27,Monocyte,0.48800063319030546,diabetic,1
+sample_28,Monocyte,0.5249948740724351,diabetic,1
+sample_29,Monocyte,0.5523391295607359,diabetic,1
+sample_30,Monocyte,0.5604456000700735,diabetic,1
+sample_41,Monocyte,0.5685592213220882,NPDR,2
+sample_42,Monocyte,0.5698986088072377,NPDR,2
+sample_43,Monocyte,0.5580225866651717,NPDR,2
+sample_44,Monocyte,0.5663383902480371,NPDR,2
+sample_46,Monocyte,0.5521509862909894,NPDR,2
+sample_47,Monocyte,0.5457697686212427,NPDR,2
+sample_48,Monocyte,0.5282961663396506,NPDR,2
+sample_49,Monocyte,0.5919700067025145,NPDR,2
+sample_50,Monocyte,0.5347294556814202,NPDR,2
+sample_61,Monocyte,0.5459495257536031,NPDR/PDR + DME,3
+sample_62,Monocyte,0.5275993762109511,NPDR/PDR + DME,3
+sample_63,Monocyte,0.5569809177651388,NPDR/PDR + DME,3
+sample_64,Monocyte,0.4892259886955378,NPDR/PDR + DME,3
+sample_65,Monocyte,0.5330271471357397,NPDR/PDR + DME,3
+sample_66,Monocyte,0.5477506330387657,NPDR/PDR + DME,3
+sample_67,Monocyte,0.5347498536161595,NPDR/PDR + DME,3
+sample_68,Monocyte,0.5759048440393226,NPDR/PDR + DME,3
+sample_69,Monocyte,0.5901215724514981,NPDR/PDR + DME,3
+sample_70,Monocyte,0.5476441847498581,NPDR/PDR + DME,3
+sample_01,Natural_killer_T_cell,0.09917321711170395,healthy control,0
+sample_02,Natural_killer_T_cell,0.08937213130941052,healthy control,0
+sample_03,Natural_killer_T_cell,0.09846223539764691,healthy control,0
+sample_04,Natural_killer_T_cell,0.10667475099872306,healthy control,0
+sample_05,Natural_killer_T_cell,0.1254611513875826,healthy control,0
+sample_06,Natural_killer_T_cell,0.07753774017589134,healthy control,0
+sample_07,Natural_killer_T_cell,0.07493913225543182,healthy control,0
+sample_08,Natural_killer_T_cell,0.1087523275301437,healthy control,0
+sample_09,Natural_killer_T_cell,0.10400240560132247,healthy control,0
+sample_10,Natural_killer_T_cell,0.10554662155358621,healthy control,0
+sample_21,Natural_killer_T_cell,0.10691817738060513,diabetic,1
+sample_22,Natural_killer_T_cell,0.1346078706256079,diabetic,1
+sample_23,Natural_killer_T_cell,0.08316709533143896,diabetic,1
+sample_24,Natural_killer_T_cell,0.09278209576907646,diabetic,1
+sample_25,Natural_killer_T_cell,0.08350819621732321,diabetic,1
+sample_26,Natural_killer_T_cell,0.08411015077517457,diabetic,1
+sample_27,Natural_killer_T_cell,0.09467708210181143,diabetic,1
+sample_28,Natural_killer_T_cell,0.13891144740642927,diabetic,1
+sample_29,Natural_killer_T_cell,0.06430062324936067,diabetic,1
+sample_30,Natural_killer_T_cell,0.10486054027363081,diabetic,1
+sample_41,Natural_killer_T_cell,0.09183710377957104,NPDR,2
+sample_42,Natural_killer_T_cell,0.06862889446173502,NPDR,2
+sample_43,Natural_killer_T_cell,0.09031889293191261,NPDR,2
+sample_44,Natural_killer_T_cell,0.10695583759382303,NPDR,2
+sample_46,Natural_killer_T_cell,0.10584198294562468,NPDR,2
+sample_47,Natural_killer_T_cell,0.10295056509584155,NPDR,2
+sample_48,Natural_killer_T_cell,0.10601134008670396,NPDR,2
+sample_49,Natural_killer_T_cell,0.10167005825559901,NPDR,2
+sample_50,Natural_killer_T_cell,0.09902754985282647,NPDR,2
+sample_61,Natural_killer_T_cell,0.10989535083063509,NPDR/PDR + DME,3
+sample_62,Natural_killer_T_cell,0.11620957106398778,NPDR/PDR + DME,3
+sample_63,Natural_killer_T_cell,0.08452294819912347,NPDR/PDR + DME,3
+sample_64,Natural_killer_T_cell,0.13443535120347289,NPDR/PDR + DME,3
+sample_65,Natural_killer_T_cell,0.12021712406685986,NPDR/PDR + DME,3
+sample_66,Natural_killer_T_cell,0.12165091582632205,NPDR/PDR + DME,3
+sample_67,Natural_killer_T_cell,0.1240623453756078,NPDR/PDR + DME,3
+sample_68,Natural_killer_T_cell,0.10124913726076812,NPDR/PDR + DME,3
+sample_69,Natural_killer_T_cell,0.13210402663206533,NPDR/PDR + DME,3
+sample_70,Natural_killer_T_cell,0.06805141138787285,NPDR/PDR + DME,3
+sample_01,Natural_killer_cell,0.2328378839309339,healthy control,0
+sample_02,Natural_killer_cell,0.22800753242913963,healthy control,0
+sample_03,Natural_killer_cell,0.24184139795051568,healthy control,0
+sample_04,Natural_killer_cell,0.24919460893811846,healthy control,0
+sample_05,Natural_killer_cell,0.22561259768149186,healthy control,0
+sample_06,Natural_killer_cell,0.25046872477312715,healthy control,0
+sample_07,Natural_killer_cell,0.2562032970208418,healthy control,0
+sample_08,Natural_killer_cell,0.21536137470872702,healthy control,0
+sample_09,Natural_killer_cell,0.25452289821639607,healthy control,0
+sample_10,Natural_killer_cell,0.23716046820234732,healthy control,0
+sample_21,Natural_killer_cell,0.23461689093507168,diabetic,1
+sample_22,Natural_killer_cell,0.2510896003031382,diabetic,1
+sample_23,Natural_killer_cell,0.2172437349165088,diabetic,1
+sample_24,Natural_killer_cell,0.20298406085456447,diabetic,1
+sample_25,Natural_killer_cell,0.22566835663141965,diabetic,1
+sample_26,Natural_killer_cell,0.23813718069162912,diabetic,1
+sample_27,Natural_killer_cell,0.2570279236459123,diabetic,1
+sample_28,Natural_killer_cell,0.30180228384892144,diabetic,1
+sample_29,Natural_killer_cell,0.24618373952148215,diabetic,1
+sample_30,Natural_killer_cell,0.24303494953567875,diabetic,1
+sample_41,Natural_killer_cell,0.24191171808293627,NPDR,2
+sample_42,Natural_killer_cell,0.2116454386538,NPDR,2
+sample_43,Natural_killer_cell,0.2322200248188413,NPDR,2
+sample_44,Natural_killer_cell,0.23968923658516508,NPDR,2
+sample_46,Natural_killer_cell,0.23984616835277356,NPDR,2
+sample_47,Natural_killer_cell,0.2524013891278716,NPDR,2
+sample_48,Natural_killer_cell,0.23968223467462293,NPDR,2
+sample_49,Natural_killer_cell,0.23321503733596902,NPDR,2
+sample_50,Natural_killer_cell,0.25723382192992394,NPDR,2
+sample_61,Natural_killer_cell,0.25656475551519725,NPDR/PDR + DME,3
+sample_62,Natural_killer_cell,0.23681089684129547,NPDR/PDR + DME,3
+sample_63,Natural_killer_cell,0.27594768359165,NPDR/PDR + DME,3
+sample_64,Natural_killer_cell,0.28687813548440616,NPDR/PDR + DME,3
+sample_65,Natural_killer_cell,0.26254187246546384,NPDR/PDR + DME,3
+sample_66,Natural_killer_cell,0.25631776030274867,NPDR/PDR + DME,3
+sample_67,Natural_killer_cell,0.27445873177642804,NPDR/PDR + DME,3
+sample_68,Natural_killer_cell,0.25875453910202556,NPDR/PDR + DME,3
+sample_69,Natural_killer_cell,0.29145931448797646,NPDR/PDR + DME,3
+sample_70,Natural_killer_cell,0.19852364288614516,NPDR/PDR + DME,3
+sample_01,Neutrophil,-0.2704702536861516,healthy control,0
+sample_02,Neutrophil,-0.23280182710206365,healthy control,0
+sample_03,Neutrophil,-0.2714109791600553,healthy control,0
+sample_04,Neutrophil,-0.27733855208812364,healthy control,0
+sample_05,Neutrophil,-0.2522238806180729,healthy control,0
+sample_06,Neutrophil,-0.26557884899858586,healthy control,0
+sample_07,Neutrophil,-0.3111350853751761,healthy control,0
+sample_08,Neutrophil,-0.30549695945666966,healthy control,0
+sample_09,Neutrophil,-0.2867064483532175,healthy control,0
+sample_10,Neutrophil,-0.3068745033731774,healthy control,0
+sample_21,Neutrophil,-0.29490937738735806,diabetic,1
+sample_22,Neutrophil,-0.2728289460928401,diabetic,1
+sample_23,Neutrophil,-0.29502684557081194,diabetic,1
+sample_24,Neutrophil,-0.2938203634010507,diabetic,1
+sample_25,Neutrophil,-0.3130746648567174,diabetic,1
+sample_26,Neutrophil,-0.2958395393341911,diabetic,1
+sample_27,Neutrophil,-0.2530034785008723,diabetic,1
+sample_28,Neutrophil,-0.08167471620410471,diabetic,1
+sample_29,Neutrophil,-0.30147189083111653,diabetic,1
+sample_30,Neutrophil,-0.24868565303647677,diabetic,1
+sample_41,Neutrophil,-0.30611982494913836,NPDR,2
+sample_42,Neutrophil,-0.2581283857076694,NPDR,2
+sample_43,Neutrophil,-0.31416488462985614,NPDR,2
+sample_44,Neutrophil,-0.24984431667917462,NPDR,2
+sample_46,Neutrophil,-0.3602007917520941,NPDR,2
+sample_47,Neutrophil,-0.26128524770649025,NPDR,2
+sample_48,Neutrophil,-0.27788045380553517,NPDR,2
+sample_49,Neutrophil,-0.23943797808520448,NPDR,2
+sample_50,Neutrophil,-0.23334764941025682,NPDR,2
+sample_61,Neutrophil,-0.13227043658707843,NPDR/PDR + DME,3
+sample_62,Neutrophil,-0.2792904426114001,NPDR/PDR + DME,3
+sample_63,Neutrophil,-0.2553407238248226,NPDR/PDR + DME,3
+sample_64,Neutrophil,-0.2227046382349098,NPDR/PDR + DME,3
+sample_65,Neutrophil,-0.27197030456560234,NPDR/PDR + DME,3
+sample_66,Neutrophil,-0.24532420088958118,NPDR/PDR + DME,3
+sample_67,Neutrophil,-0.28705803329216895,NPDR/PDR + DME,3
+sample_68,Neutrophil,-0.20743770609168352,NPDR/PDR + DME,3
+sample_69,Neutrophil,-0.17604728098649608,NPDR/PDR + DME,3
+sample_70,Neutrophil,-0.2235687978085471,NPDR/PDR + DME,3
+sample_01,Plasmacytoid_dendritic_cell,0.5598096036328809,healthy control,0
+sample_02,Plasmacytoid_dendritic_cell,0.5701511504694408,healthy control,0
+sample_03,Plasmacytoid_dendritic_cell,0.5552312940614211,healthy control,0
+sample_04,Plasmacytoid_dendritic_cell,0.5644461771412668,healthy control,0
+sample_05,Plasmacytoid_dendritic_cell,0.5730824031078954,healthy control,0
+sample_06,Plasmacytoid_dendritic_cell,0.5661973767450269,healthy control,0
+sample_07,Plasmacytoid_dendritic_cell,0.5438949181571959,healthy control,0
+sample_08,Plasmacytoid_dendritic_cell,0.5599231210648022,healthy control,0
+sample_09,Plasmacytoid_dendritic_cell,0.5556491649661568,healthy control,0
+sample_10,Plasmacytoid_dendritic_cell,0.5625117697034234,healthy control,0
+sample_21,Plasmacytoid_dendritic_cell,0.5567395592449321,diabetic,1
+sample_22,Plasmacytoid_dendritic_cell,0.5615170583083274,diabetic,1
+sample_23,Plasmacytoid_dendritic_cell,0.5594120185167994,diabetic,1
+sample_24,Plasmacytoid_dendritic_cell,0.5637953064362977,diabetic,1
+sample_25,Plasmacytoid_dendritic_cell,0.5626712970162103,diabetic,1
+sample_26,Plasmacytoid_dendritic_cell,0.5761268596759578,diabetic,1
+sample_27,Plasmacytoid_dendritic_cell,0.5865231129106143,diabetic,1
+sample_28,Plasmacytoid_dendritic_cell,0.5660213878283642,diabetic,1
+sample_29,Plasmacytoid_dendritic_cell,0.5747451920486719,diabetic,1
+sample_30,Plasmacytoid_dendritic_cell,0.5672731230681004,diabetic,1
+sample_41,Plasmacytoid_dendritic_cell,0.5706352641487115,NPDR,2
+sample_42,Plasmacytoid_dendritic_cell,0.5764270159842476,NPDR,2
+sample_43,Plasmacytoid_dendritic_cell,0.5610826239976212,NPDR,2
+sample_44,Plasmacytoid_dendritic_cell,0.5655804617922824,NPDR,2
+sample_46,Plasmacytoid_dendritic_cell,0.5572707299059608,NPDR,2
+sample_47,Plasmacytoid_dendritic_cell,0.5732177993063854,NPDR,2
+sample_48,Plasmacytoid_dendritic_cell,0.564323517288943,NPDR,2
+sample_49,Plasmacytoid_dendritic_cell,0.5866695422938722,NPDR,2
+sample_50,Plasmacytoid_dendritic_cell,0.563578134249225,NPDR,2
+sample_61,Plasmacytoid_dendritic_cell,0.5577366326418589,NPDR/PDR + DME,3
+sample_62,Plasmacytoid_dendritic_cell,0.5886502474448645,NPDR/PDR + DME,3
+sample_63,Plasmacytoid_dendritic_cell,0.5704908490460824,NPDR/PDR + DME,3
+sample_64,Plasmacytoid_dendritic_cell,0.5508965988803801,NPDR/PDR + DME,3
+sample_65,Plasmacytoid_dendritic_cell,0.5643976487282076,NPDR/PDR + DME,3
+sample_66,Plasmacytoid_dendritic_cell,0.5660016121543555,NPDR/PDR + DME,3
+sample_67,Plasmacytoid_dendritic_cell,0.5629475501305439,NPDR/PDR + DME,3
+sample_68,Plasmacytoid_dendritic_cell,0.5790355022010918,NPDR/PDR + DME,3
+sample_69,Plasmacytoid_dendritic_cell,0.600794785869924,NPDR/PDR + DME,3
+sample_70,Plasmacytoid_dendritic_cell,0.581806724864685,NPDR/PDR + DME,3
+sample_01,Regulatory_T_cell,-0.0875560491838205,healthy control,0
+sample_02,Regulatory_T_cell,-0.07399165672809936,healthy control,0
+sample_03,Regulatory_T_cell,-0.07877804648628871,healthy control,0
+sample_04,Regulatory_T_cell,-0.07992782207393141,healthy control,0
+sample_05,Regulatory_T_cell,-0.061061410249503,healthy control,0
+sample_06,Regulatory_T_cell,-0.07150279012231388,healthy control,0
+sample_07,Regulatory_T_cell,-0.03448692686406138,healthy control,0
+sample_08,Regulatory_T_cell,-0.10010594150632514,healthy control,0
+sample_09,Regulatory_T_cell,-0.031453533089795704,healthy control,0
+sample_10,Regulatory_T_cell,-0.11707363021042876,healthy control,0
+sample_21,Regulatory_T_cell,-0.04652734270355089,diabetic,1
+sample_22,Regulatory_T_cell,-0.05713674489374161,diabetic,1
+sample_23,Regulatory_T_cell,-0.047414023498411687,diabetic,1
+sample_24,Regulatory_T_cell,-0.08740767959859913,diabetic,1
+sample_25,Regulatory_T_cell,-0.10074340114413793,diabetic,1
+sample_26,Regulatory_T_cell,-0.11199608010944441,diabetic,1
+sample_27,Regulatory_T_cell,-0.10439264617715209,diabetic,1
+sample_28,Regulatory_T_cell,-0.06099577322981081,diabetic,1
+sample_29,Regulatory_T_cell,-0.07636725691153959,diabetic,1
+sample_30,Regulatory_T_cell,-0.09568804736909291,diabetic,1
+sample_41,Regulatory_T_cell,-0.012518023981750608,NPDR,2
+sample_42,Regulatory_T_cell,-0.05963608234017352,NPDR,2
+sample_43,Regulatory_T_cell,-0.030360332362575838,NPDR,2
+sample_44,Regulatory_T_cell,-0.06427463457515495,NPDR,2
+sample_46,Regulatory_T_cell,-0.085849355072159,NPDR,2
+sample_47,Regulatory_T_cell,-0.05334961002596043,NPDR,2
+sample_48,Regulatory_T_cell,-0.11171543413244367,NPDR,2
+sample_49,Regulatory_T_cell,-0.04571491033337988,NPDR,2
+sample_50,Regulatory_T_cell,-0.10486917825834899,NPDR,2
+sample_61,Regulatory_T_cell,0.036777313897176776,NPDR/PDR + DME,3
+sample_62,Regulatory_T_cell,-0.08956867290300642,NPDR/PDR + DME,3
+sample_63,Regulatory_T_cell,-0.012166987645890073,NPDR/PDR + DME,3
+sample_64,Regulatory_T_cell,-0.04236743745494362,NPDR/PDR + DME,3
+sample_65,Regulatory_T_cell,-0.021190111153510154,NPDR/PDR + DME,3
+sample_66,Regulatory_T_cell,-0.042842806234023936,NPDR/PDR + DME,3
+sample_67,Regulatory_T_cell,-0.01936377059428918,NPDR/PDR + DME,3
+sample_68,Regulatory_T_cell,-0.019529644588378397,NPDR/PDR + DME,3
+sample_69,Regulatory_T_cell,0.02166429964344576,NPDR/PDR + DME,3
+sample_70,Regulatory_T_cell,-0.09051770444223718,NPDR/PDR + DME,3
+sample_01,T_follicular_helper_cell,0.22126786635876705,healthy control,0
+sample_02,T_follicular_helper_cell,0.23746552770994805,healthy control,0
+sample_03,T_follicular_helper_cell,0.25156199712775845,healthy control,0
+sample_04,T_follicular_helper_cell,0.216656841346591,healthy control,0
+sample_05,T_follicular_helper_cell,0.24086001540208854,healthy control,0
+sample_06,T_follicular_helper_cell,0.24900813478100176,healthy control,0
+sample_07,T_follicular_helper_cell,0.2303115371611823,healthy control,0
+sample_08,T_follicular_helper_cell,0.23228509449242082,healthy control,0
+sample_09,T_follicular_helper_cell,0.2494295108238214,healthy control,0
+sample_10,T_follicular_helper_cell,0.22675646651417702,healthy control,0
+sample_21,T_follicular_helper_cell,0.23738691576542748,diabetic,1
+sample_22,T_follicular_helper_cell,0.24879998235901138,diabetic,1
+sample_23,T_follicular_helper_cell,0.20269681772762746,diabetic,1
+sample_24,T_follicular_helper_cell,0.21672476313062955,diabetic,1
+sample_25,T_follicular_helper_cell,0.2249747632424622,diabetic,1
+sample_26,T_follicular_helper_cell,0.2305322597322727,diabetic,1
+sample_27,T_follicular_helper_cell,0.20649452941026425,diabetic,1
+sample_28,T_follicular_helper_cell,0.2593159533516528,diabetic,1
+sample_29,T_follicular_helper_cell,0.22721851300457538,diabetic,1
+sample_30,T_follicular_helper_cell,0.24235936189428067,diabetic,1
+sample_41,T_follicular_helper_cell,0.24915852113741865,NPDR,2
+sample_42,T_follicular_helper_cell,0.22177154589288006,NPDR,2
+sample_43,T_follicular_helper_cell,0.24206936302237714,NPDR,2
+sample_44,T_follicular_helper_cell,0.23541261350764534,NPDR,2
+sample_46,T_follicular_helper_cell,0.2397331314871026,NPDR,2
+sample_47,T_follicular_helper_cell,0.21867934476194156,NPDR,2
+sample_48,T_follicular_helper_cell,0.22682682692161033,NPDR,2
+sample_49,T_follicular_helper_cell,0.2306458283581736,NPDR,2
+sample_50,T_follicular_helper_cell,0.2548479049073927,NPDR,2
+sample_61,T_follicular_helper_cell,0.24960668253930524,NPDR/PDR + DME,3
+sample_62,T_follicular_helper_cell,0.19517058418047603,NPDR/PDR + DME,3
+sample_63,T_follicular_helper_cell,0.2533270319441189,NPDR/PDR + DME,3
+sample_64,T_follicular_helper_cell,0.23947259010827865,NPDR/PDR + DME,3
+sample_65,T_follicular_helper_cell,0.27388696211231545,NPDR/PDR + DME,3
+sample_66,T_follicular_helper_cell,0.2646136659572757,NPDR/PDR + DME,3
+sample_67,T_follicular_helper_cell,0.23598852923350855,NPDR/PDR + DME,3
+sample_68,T_follicular_helper_cell,0.2467815276908391,NPDR/PDR + DME,3
+sample_69,T_follicular_helper_cell,0.2834226377555356,NPDR/PDR + DME,3
+sample_70,T_follicular_helper_cell,0.2252808461133925,NPDR/PDR + DME,3
+sample_01,Type_17_T_helper_cell,0.09682055340834875,healthy control,0
+sample_02,Type_17_T_helper_cell,0.11798002365619856,healthy control,0
+sample_03,Type_17_T_helper_cell,0.14018999212976682,healthy control,0
+sample_04,Type_17_T_helper_cell,0.10787773516595432,healthy control,0
+sample_05,Type_17_T_helper_cell,0.09175991191053864,healthy control,0
+sample_06,Type_17_T_helper_cell,0.12909606539161156,healthy control,0
+sample_07,Type_17_T_helper_cell,0.14215432344288767,healthy control,0
+sample_08,Type_17_T_helper_cell,0.0888609415443153,healthy control,0
+sample_09,Type_17_T_helper_cell,0.11632680122163352,healthy control,0
+sample_10,Type_17_T_helper_cell,0.0906509628815244,healthy control,0
+sample_21,Type_17_T_helper_cell,0.10956050008026302,diabetic,1
+sample_22,Type_17_T_helper_cell,0.09839846220304509,diabetic,1
+sample_23,Type_17_T_helper_cell,0.09841054829681709,diabetic,1
+sample_24,Type_17_T_helper_cell,0.09506854098531138,diabetic,1
+sample_25,Type_17_T_helper_cell,0.09051432448083134,diabetic,1
+sample_26,Type_17_T_helper_cell,0.11544287027326934,diabetic,1
+sample_27,Type_17_T_helper_cell,0.061972472119766656,diabetic,1
+sample_28,Type_17_T_helper_cell,0.13076924637780826,diabetic,1
+sample_29,Type_17_T_helper_cell,0.07653519543583154,diabetic,1
+sample_30,Type_17_T_helper_cell,0.0693730242997097,diabetic,1
+sample_41,Type_17_T_helper_cell,0.1165939826789366,NPDR,2
+sample_42,Type_17_T_helper_cell,0.06560094480680659,NPDR,2
+sample_43,Type_17_T_helper_cell,0.1382110399355495,NPDR,2
+sample_44,Type_17_T_helper_cell,0.11005799159178022,NPDR,2
+sample_46,Type_17_T_helper_cell,0.09106635474822712,NPDR,2
+sample_47,Type_17_T_helper_cell,0.08705423216685707,NPDR,2
+sample_48,Type_17_T_helper_cell,0.05659791504403097,NPDR,2
+sample_49,Type_17_T_helper_cell,0.08976127617795697,NPDR,2
+sample_50,Type_17_T_helper_cell,0.08920476509611629,NPDR,2
+sample_61,Type_17_T_helper_cell,0.10662197795158726,NPDR/PDR + DME,3
+sample_62,Type_17_T_helper_cell,0.06426458062995945,NPDR/PDR + DME,3
+sample_63,Type_17_T_helper_cell,0.1508414776402453,NPDR/PDR + DME,3
+sample_64,Type_17_T_helper_cell,0.11745680464809032,NPDR/PDR + DME,3
+sample_65,Type_17_T_helper_cell,0.0953063108129445,NPDR/PDR + DME,3
+sample_66,Type_17_T_helper_cell,0.13627837884802294,NPDR/PDR + DME,3
+sample_67,Type_17_T_helper_cell,0.09155306236249881,NPDR/PDR + DME,3
+sample_68,Type_17_T_helper_cell,0.11104689120708643,NPDR/PDR + DME,3
+sample_69,Type_17_T_helper_cell,0.18084369724840912,NPDR/PDR + DME,3
+sample_70,Type_17_T_helper_cell,0.1298645637102945,NPDR/PDR + DME,3
+sample_01,Type_1_T_helper_cell,0.11926421877963395,healthy control,0
+sample_02,Type_1_T_helper_cell,0.15967070947197562,healthy control,0
+sample_03,Type_1_T_helper_cell,0.1456773561564011,healthy control,0
+sample_04,Type_1_T_helper_cell,0.17434290902947788,healthy control,0
+sample_05,Type_1_T_helper_cell,0.176332357397388,healthy control,0
+sample_06,Type_1_T_helper_cell,0.14149571705203015,healthy control,0
+sample_07,Type_1_T_helper_cell,0.1365284688010318,healthy control,0
+sample_08,Type_1_T_helper_cell,0.13291359618012416,healthy control,0
+sample_09,Type_1_T_helper_cell,0.1260929632652701,healthy control,0
+sample_10,Type_1_T_helper_cell,0.14653296327988094,healthy control,0
+sample_21,Type_1_T_helper_cell,0.13220408714510815,diabetic,1
+sample_22,Type_1_T_helper_cell,0.1466814050812087,diabetic,1
+sample_23,Type_1_T_helper_cell,0.12179502370843134,diabetic,1
+sample_24,Type_1_T_helper_cell,0.14721322319713043,diabetic,1
+sample_25,Type_1_T_helper_cell,0.12577352055957083,diabetic,1
+sample_26,Type_1_T_helper_cell,0.12702241037092557,diabetic,1
+sample_27,Type_1_T_helper_cell,0.14239872781013746,diabetic,1
+sample_28,Type_1_T_helper_cell,0.1918283604061399,diabetic,1
+sample_29,Type_1_T_helper_cell,0.14214628597854853,diabetic,1
+sample_30,Type_1_T_helper_cell,0.15790032344647562,diabetic,1
+sample_41,Type_1_T_helper_cell,0.13335231336763806,NPDR,2
+sample_42,Type_1_T_helper_cell,0.12937917962547724,NPDR,2
+sample_43,Type_1_T_helper_cell,0.1405017549784483,NPDR,2
+sample_44,Type_1_T_helper_cell,0.14091033706271047,NPDR,2
+sample_46,Type_1_T_helper_cell,0.13643809325646972,NPDR,2
+sample_47,Type_1_T_helper_cell,0.15448391125701552,NPDR,2
+sample_48,Type_1_T_helper_cell,0.1338138282139878,NPDR,2
+sample_49,Type_1_T_helper_cell,0.13509878243845894,NPDR,2
+sample_50,Type_1_T_helper_cell,0.1471352856214535,NPDR,2
+sample_61,Type_1_T_helper_cell,0.13223174653990877,NPDR/PDR + DME,3
+sample_62,Type_1_T_helper_cell,0.13547544633597533,NPDR/PDR + DME,3
+sample_63,Type_1_T_helper_cell,0.16468167911311976,NPDR/PDR + DME,3
+sample_64,Type_1_T_helper_cell,0.17314711308519184,NPDR/PDR + DME,3
+sample_65,Type_1_T_helper_cell,0.16809677036320675,NPDR/PDR + DME,3
+sample_66,Type_1_T_helper_cell,0.17259546178629054,NPDR/PDR + DME,3
+sample_67,Type_1_T_helper_cell,0.1938419006584798,NPDR/PDR + DME,3
+sample_68,Type_1_T_helper_cell,0.1728616924535388,NPDR/PDR + DME,3
+sample_69,Type_1_T_helper_cell,0.20957796148180016,NPDR/PDR + DME,3
+sample_70,Type_1_T_helper_cell,0.10797275456626486,NPDR/PDR + DME,3
+sample_01,Type_2_T_helper_cell,0.15276643332348694,healthy control,0
+sample_02,Type_2_T_helper_cell,0.14410318532520933,healthy control,0
+sample_03,Type_2_T_helper_cell,0.16720560247690708,healthy control,0
+sample_04,Type_2_T_helper_cell,0.1695330319588396,healthy control,0
+sample_05,Type_2_T_helper_cell,0.1199305617286715,healthy control,0
+sample_06,Type_2_T_helper_cell,0.16932601450084028,healthy control,0
+sample_07,Type_2_T_helper_cell,0.15529398185313256,healthy control,0
+sample_08,Type_2_T_helper_cell,0.12003896858838371,healthy control,0
+sample_09,Type_2_T_helper_cell,0.10823528123619558,healthy control,0
+sample_10,Type_2_T_helper_cell,0.10560259193773026,healthy control,0
+sample_21,Type_2_T_helper_cell,0.12553485833602013,diabetic,1
+sample_22,Type_2_T_helper_cell,0.11149218570085795,diabetic,1
+sample_23,Type_2_T_helper_cell,0.12495710952853606,diabetic,1
+sample_24,Type_2_T_helper_cell,0.15069437942257366,diabetic,1
+sample_25,Type_2_T_helper_cell,0.12396116072458895,diabetic,1
+sample_26,Type_2_T_helper_cell,0.14662672655442566,diabetic,1
+sample_27,Type_2_T_helper_cell,0.07995821872856616,diabetic,1
+sample_28,Type_2_T_helper_cell,0.11528836684445513,diabetic,1
+sample_29,Type_2_T_helper_cell,0.16638777894759793,diabetic,1
+sample_30,Type_2_T_helper_cell,0.11132574071471713,diabetic,1
+sample_41,Type_2_T_helper_cell,0.11679558902863085,NPDR,2
+sample_42,Type_2_T_helper_cell,0.11447148318509089,NPDR,2
+sample_43,Type_2_T_helper_cell,0.13013406600896746,NPDR,2
+sample_44,Type_2_T_helper_cell,0.15395270029166566,NPDR,2
+sample_46,Type_2_T_helper_cell,0.14338832405933763,NPDR,2
+sample_47,Type_2_T_helper_cell,0.08200393196974338,NPDR,2
+sample_48,Type_2_T_helper_cell,0.0870612383839807,NPDR,2
+sample_49,Type_2_T_helper_cell,0.09653188762548946,NPDR,2
+sample_50,Type_2_T_helper_cell,0.11027923231950659,NPDR,2
+sample_61,Type_2_T_helper_cell,0.14249800704549664,NPDR/PDR + DME,3
+sample_62,Type_2_T_helper_cell,0.07368153613056803,NPDR/PDR + DME,3
+sample_63,Type_2_T_helper_cell,0.15669541870450318,NPDR/PDR + DME,3
+sample_64,Type_2_T_helper_cell,0.07506986877730468,NPDR/PDR + DME,3
+sample_65,Type_2_T_helper_cell,0.14422680196147886,NPDR/PDR + DME,3
+sample_66,Type_2_T_helper_cell,0.11623063442039626,NPDR/PDR + DME,3
+sample_67,Type_2_T_helper_cell,0.17316609779843045,NPDR/PDR + DME,3
+sample_68,Type_2_T_helper_cell,0.1781916733549667,NPDR/PDR + DME,3
+sample_69,Type_2_T_helper_cell,0.18418528809915477,NPDR/PDR + DME,3
+sample_70,Type_2_T_helper_cell,0.10038030456702969,NPDR/PDR + DME,3

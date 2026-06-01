@@ -1,0 +1,9 @@
+item,fpr,tpr,threshold
+combined_signature_oof,0.0,0.0,inf
+combined_signature_oof,0.0,0.1,0.9999999999997129
+combined_signature_oof,0.0,0.8,0.7521929479996515
+combined_signature_oof,0.6,0.8,0.0008436284155361977
+combined_signature_oof,0.6,0.9,0.0008402141824224741
+combined_signature_oof,0.7,0.9,9.695682584824931e-05
+combined_signature_oof,0.7,1.0,9.684203339963041e-05
+combined_signature_oof,1.0,1.0,2.9581203415376435e-10

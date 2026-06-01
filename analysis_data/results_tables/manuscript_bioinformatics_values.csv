@@ -1,0 +1,15 @@
+metric,value
+macula_samples_total,39
+healthy_control_n,10
+diabetic_n,10
+npdr_n,9
+advanced_dr_n,10
+primary_deg_significant,468
+inflammatory_core_genes,11
+progressive_inflammatory_genes,8
+lasso_selected_genes,"MSR1, NMI, FZD5, TIMP1, CMKLR1, LYN, TLR3"
+combined_signature_auc,0.87
+inflammation_primary_pvalue,0.0963036920538509
+inflammation_severity_rho,0.3401076217322793
+top_immune_cells,"Immature_B_cell, Macrophage, Natural_killer_cell, Memory_B_cell, Regulatory_T_cell"
+top_recurrent_pathways,"HALLMARK_INFLAMMATORY_RESPONSE, HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION, HALLMARK_INTERFERON_ALPHA_RESPONSE, HALLMARK_INTERFERON_GAMMA_RESPONSE, HALLMARK_COAGULATION"

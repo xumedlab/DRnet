@@ -1,0 +1,2 @@
+contrast,control_mean,case_mean,delta_mean,pvalue
+healthy control vs NPDR/PDR + DME,0.42562665580547404,0.619286720203873,0.19366006439839895,0.09630369205385092

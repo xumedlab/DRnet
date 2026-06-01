@@ -1,0 +1,22 @@
+design_name,design_formula,gene_symbol,log2FC,padj,passes_primary_rule,inflammatory_candidate_count
+unadjusted,~condition,MSR1,0.5547141291737355,0.0051683325744974135,1,13
+unadjusted,~condition,NMI,0.9372762337673797,0.06226314976782607,0,13
+unadjusted,~condition,FZD5,0.5759244094786973,0.00215300075010096,1,13
+unadjusted,~condition,TIMP1,0.7996812770548595,0.0028839341175165268,1,13
+unadjusted,~condition,CMKLR1,1.15102840587226,0.01923932158249382,1,13
+unadjusted,~condition,LYN,0.605233595844977,0.00039094801715939284,1,13
+unadjusted,~condition,TLR3,0.990358077880028,0.009524702713438214,1,13
+age_sex,~age + sex + condition,MSR1,0.6780241396065906,0.0015529356911736926,1,8
+age_sex,~age + sex + condition,NMI,1.0651095175443972,0.05236474055319528,0,8
+age_sex,~age + sex + condition,FZD5,0.5606685398278247,0.01907069116689454,1,8
+age_sex,~age + sex + condition,TIMP1,0.9637249277058549,0.0009643243037738611,1,8
+age_sex,~age + sex + condition,CMKLR1,1.1492662937700497,0.05172718857592458,0,8
+age_sex,~age + sex + condition,LYN,0.5177299221657639,0.011070600015895498,1,8
+age_sex,~age + sex + condition,TLR3,1.065934258387919,0.018159612332257727,1,8
+full_available,~age + sex + post_mortem_interval_min + rin + condition,MSR1,0.6333872451299055,0.0005626790089059226,1,11
+full_available,~age + sex + post_mortem_interval_min + rin + condition,NMI,1.1165509145635315,0.0407470657899274,1,11
+full_available,~age + sex + post_mortem_interval_min + rin + condition,FZD5,0.5655683275871436,0.023833536796863484,1,11
+full_available,~age + sex + post_mortem_interval_min + rin + condition,TIMP1,0.9678846005387987,0.001355321944269171,1,11
+full_available,~age + sex + post_mortem_interval_min + rin + condition,CMKLR1,1.1161489771128665,0.04868776464207996,1,11
+full_available,~age + sex + post_mortem_interval_min + rin + condition,LYN,0.5263416474917153,0.012066044745734606,1,11
+full_available,~age + sex + post_mortem_interval_min + rin + condition,TLR3,1.0729732652445565,0.024004977618051638,1,11
