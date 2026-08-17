@@ -1,0 +1,19 @@
+expression_scale,qc_or_clinical_metric,n_samples,spearman_rho,spearman_p_two_sided,spearman_p_bh_18_tests,scope
+p2rx4_raw_count,input_reads,17,0.32352941176470595,0.20524666282786772,0.5560219360760701,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,uniquely_mapped_percent,17,0.786764705882353,0.00017911658809218237,0.0010746995285530942,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,featurecounts_assigned_percent,17,0.8259803921568629,4.407027914063439e-05,0.0007932650245314191,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,total_gene_counts,17,0.806372549019608,9.237187552774258e-05,0.0008313468797496832,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,detected_genes,17,-0.06617647058823531,0.800774094340852,0.9404583435037518,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,size_factor,17,0.7500000000000001,0.000525730789939475,0.0023657885547276377,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,cell_count,17,0.1985294117647059,0.4449505436788084,0.7560759583418591,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,rna_concentration_pg_per_ul,17,-0.04659718840273066,0.8590477921676923,0.9404583435037518,descriptive QC/clinical association; not causal adjustment
+p2rx4_raw_count,age,17,-0.29693273885569693,0.24712086047825338,0.5560219360760701,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,input_reads,17,0.03186274509803922,0.9033768447188891,0.9404583435037518,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,uniquely_mapped_percent,17,0.14705882352941177,0.5732772908660002,0.8599159362990003,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,featurecounts_assigned_percent,17,0.22303921568627455,0.38952287839679167,0.7560759583418591,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,total_gene_counts,17,0.09803921568627452,0.708151309718605,0.9104802553524921,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,detected_genes,17,-0.590686274509804,0.012536389668570057,0.045131002806852206,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,size_factor,17,0.019607843137254905,0.9404583435037518,0.9404583435037518,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,cell_count,17,-0.31127450980392163,0.2239239360724044,0.5560219360760701,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,rna_concentration_pg_per_ul,17,0.1912937208112101,0.46204641898669174,0.7560759583418591,descriptive QC/clinical association; not causal adjustment
+p2rx4_deseq2_normalized_count,age,17,-0.1042945570360919,0.6903703622413067,0.9104802553524921,descriptive QC/clinical association; not causal adjustment

@@ -1,0 +1,5 @@
+dataset,expression_scale,qc_metric,n_profiles,spearman_rho,spearman_p_two_sided,scope
+GSE276892,p2rx4_value,cell_count,17,-0.15441176470588236,0.5540319990921863,"descriptive QC correlation; mapping rate, library size, and detected-gene count were not deposited per patient"
+GSE276892,log2_p2rx4_plus_1,cell_count,17,-0.15441176470588236,0.5540319990921863,"descriptive QC correlation; mapping rate, library size, and detected-gene count were not deposited per patient"
+GSE276892,p2rx4_value,rna_concentration_pg_per_ul,17,0.11036176200646736,0.6732691467987704,"descriptive QC correlation; mapping rate, library size, and detected-gene count were not deposited per patient"
+GSE276892,log2_p2rx4_plus_1,rna_concentration_pg_per_ul,17,0.11036176200646736,0.6732691467987704,"descriptive QC correlation; mapping rate, library size, and detected-gene count were not deposited per patient"

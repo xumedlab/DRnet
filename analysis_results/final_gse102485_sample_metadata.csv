@@ -1,0 +1,31 @@
+sample_title,geo_accession,source_name,disease,tissue,analysis_group,is_membrane_source,patient_identifier_available
+Bp2,GSM2739339,Retinal neovascular proliferative membrane,branch retinal vein occlusion,branch retinal vein occlusion,BRVO_samples,True,False
+Bp3,GSM2739340,Retinal neovascular proliferative membrane,branch retinal vein occlusion,branch retinal vein occlusion,BRVO_samples,True,False
+Bp4,GSM2739341,Retinal neovascular proliferative membrane,branch retinal vein occlusion,branch retinal vein occlusion,BRVO_samples,True,False
+IIbp1,GSM2739342,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,hemal arch,diabetic_samples,True,False
+IIbp2,GSM2739343,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,hemal arch,diabetic_samples,True,False
+IIbp3,GSM2739344,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,hemal arch,diabetic_samples,True,False
+IIbp4,GSM2739345,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,hemal arch,diabetic_samples,True,False
+IInp1,GSM2739346,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,nasal side,diabetic_samples,True,False
+IInp2,GSM2739347,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,nasal side,diabetic_samples,True,False
+IInp3,GSM2739348,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,nasal side,diabetic_samples,True,False
+IIp1,GSM2739349,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,whole part,diabetic_samples,True,False
+IIp2,GSM2739350,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,whole part,diabetic_samples,True,False
+IIp3,GSM2739351,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,whole part,diabetic_samples,True,False
+IIp4,GSM2739352,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,whole part,diabetic_samples,True,False
+IIr1,GSM2739353,retina,abbreviations of type II diabetes,retina,diabetic_samples,False,False
+IIr2,GSM2739354,retina,abbreviations of type II diabetes,retina,diabetic_samples,False,False
+IIrbp1,GSM2739355,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,hemal arch part and optic disc,diabetic_samples,True,False
+IIrbp2,GSM2739356,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,hemal arch part and optic disc,diabetic_samples,True,False
+IIrp1,GSM2739357,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,optic disc,diabetic_samples,True,False
+IIrp2,GSM2739358,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,optic disc,diabetic_samples,True,False
+IIsp1,GSM2739359,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,surrounding part,diabetic_samples,True,False
+IIsp2,GSM2739360,Retinal neovascular proliferative membrane,abbreviations of type II diabetes,surrounding part,diabetic_samples,True,False
+Ip1,GSM2739361,Retinal neovascular proliferative membrane,abbreviations of type I diabetes,whole part,diabetic_samples,True,False
+Ip2,GSM2739362,Retinal neovascular proliferative membrane,abbreviations of type I diabetes,whole part,diabetic_samples,True,False
+Ip3,GSM2739363,Retinal neovascular proliferative membrane,abbreviations of type I diabetes,whole part,diabetic_samples,True,False
+Nr1,GSM2739364,retina,Normal retina,retina,normal_retina,False,False
+Nr2,GSM2739365,retina,Normal retina,retina,normal_retina,False,False
+Nr3,GSM2739366,retina,Normal retina,retina,normal_retina,False,False
+Rp1,GSM2739367,Retinal neovascular proliferative membrane,retinal periphlebitis,retinal periphlebitis,retinal_periphlebitis_samples,True,False
+Rp2,GSM2739368,Retinal neovascular proliferative membrane,retinal periphlebitis,retinal periphlebitis,retinal_periphlebitis_samples,True,False

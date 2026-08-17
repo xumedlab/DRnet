@@ -1,0 +1,4 @@
+record	source_url	accessed_on	note
+PRJNA1159345 run-to-sample mapping	https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1159345&result=read_run	2026-08-14	ENA sample_title supplied the fixed 10-run mapping.
+GSE147657 reused-control lane mapping	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276892	2026-08-14	Seven controls, each represented by three technical lanes, were retained.
+GENCODE human release 42	https://www.gencodegenes.org/human/release_42.html	2026-08-14	GRCh38.p13 all-regions source reconstruction and primary-assembly sensitivity.

@@ -1,0 +1,7 @@
+gene_symbol,n_diabetic_membrane_profiles,n_disease_control_membrane_profiles,control_composition,patient_mapping_available,mean_log2_fpkm_difference,bootstrap_ci_low,bootstrap_ci_high,mannwhitney_pvalue,role,mannwhitney_padj_bh
+P2RX4,20,5,3 BRVO; 2 retinal periphlebitis,False,0.06842934668330553,-0.12957728955156608,0.2612865601225996,0.7339474627492532,supplementary post-hoc membrane-only context; not independent validation,0.7339474627492532
+TLR2,20,5,3 BRVO; 2 retinal periphlebitis,False,0.7240526607869975,-0.577463230506994,2.126500493491174,0.26221555197831237,supplementary post-hoc membrane-only context; not independent validation,0.7339474627492532
+CD82,20,5,3 BRVO; 2 retinal periphlebitis,False,0.00534738816040134,-0.12953127323414082,0.11503132071598728,0.7081275261477828,supplementary post-hoc membrane-only context; not independent validation,0.7339474627492532
+NLRP3,20,5,3 BRVO; 2 retinal periphlebitis,False,0.11246856404288741,-0.21140971812815001,0.434977844518086,0.634325291201211,supplementary post-hoc membrane-only context; not independent validation,0.7339474627492532
+FPR1,20,5,3 BRVO; 2 retinal periphlebitis,False,0.14544462298229544,0.03698713362776699,0.2604586056766036,0.0560914155646351,supplementary post-hoc membrane-only context; not independent validation,0.3365484933878106
+SLC31A1,20,5,3 BRVO; 2 retinal periphlebitis,False,0.14700807177422315,-0.12091921263093915,0.4167779501066486,0.6583562862123487,supplementary post-hoc membrane-only context; not independent validation,0.7339474627492532

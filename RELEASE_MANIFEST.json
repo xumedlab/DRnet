@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "release_name": "DRnet P2RX4 cross-cohort analysis",
+  "release_version": "3.0.0",
+  "release_tag": "v3.0.0",
+  "repository_url": "https://github.com/xumedlab/DRnet",
+  "article_type": "Research Article",
+  "pipeline_entry_point": "analysis_scripts/run_final_research_article_pipeline.py",
+  "random_seed": 20260813,
+  "formal_resampling": {
+    "discovery_donor_bootstrap": 2000,
+    "studentized_wild_bootstrap_t": 4999,
+    "independent_validation_bootstrap": 10000
+  },
+  "protocol_sha256": "FA0EBEEFE45709178E197B6F0819F7AA1E1692E50AA2C7F47E2601D7CA3C8EED",
+  "file_count_including_manifest_and_checksum": 133,
+  "largest_file": "project_inputs/data_processed/log2cpm_macula_4groups.tsv",
+  "largest_file_bytes": 18448877,
+  "maximum_allowed_file_bytes": 104857600,
+  "checksum_file": "SHA256SUMS.txt",
+  "checksum_scope": "all public-tree files except the checksum file itself",
+  "required_release_asset": {
+    "file": "DRnet_GSE276892_remote_results.tar.gz",
+    "bytes": 444319883,
+    "sha256": "CF6784D6852D30A7A2A67FDFC0C7FB93E0A3ABBF3207CE775F860709795D65A6",
+    "install_path": "analysis_data/independent_validation/remote_results/DRnet_GSE276892_remote_results.tar.gz"
+  }
+}

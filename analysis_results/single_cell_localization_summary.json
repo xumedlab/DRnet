@@ -1,0 +1,101 @@
+{
+  "dataset": "GSE130636",
+  "source_article": "Voigt et al., Experimental Eye Research 2019",
+  "source_mapping_provenance": "analysis_data/external_single_cell/AUTHOR_MAPPING_PROVENANCE.md",
+  "source_mapping_page": 38,
+  "n_cells_total": 8217,
+  "n_donors": 3,
+  "n_regions_per_donor": 2,
+  "n_libraries": 6,
+  "author_clusters": 17,
+  "analysis_cell_types": 10,
+  "excluded_author_cluster": "9 (Unknown)",
+  "candidate_genes": [
+    "P2RX4",
+    "TLR2",
+    "CD82",
+    "NLRP3",
+    "FPR1",
+    "SLC31A1"
+  ],
+  "evidence_scope": "normal-retina localization context",
+  "dominant_cell_types": {
+    "P2RX4": {
+      "cell_type": "Microglia",
+      "mean_expm1_log_normalized_expression": 0.48817493547939445,
+      "expression_relative_to_gene_max": 1.0,
+      "tau_cell_type_specificity": 0.7252777058952419,
+      "detection_fraction": 0.16233766233766234
+    },
+    "TLR2": {
+      "cell_type": "Microglia",
+      "mean_expm1_log_normalized_expression": 0.3500726213824454,
+      "expression_relative_to_gene_max": 1.0,
+      "tau_cell_type_specificity": 0.9997743447377326,
+      "detection_fraction": 0.09740259740259741
+    },
+    "CD82": {
+      "cell_type": "Müller-enriched glia",
+      "mean_expm1_log_normalized_expression": 0.34673597341025536,
+      "expression_relative_to_gene_max": 1.0,
+      "tau_cell_type_specificity": 0.780306818229151,
+      "detection_fraction": 0.08246995441359303
+    },
+    "NLRP3": {
+      "cell_type": "Microglia",
+      "mean_expm1_log_normalized_expression": 0.13406058904827603,
+      "expression_relative_to_gene_max": 1.0,
+      "tau_cell_type_specificity": 0.9868230997882483,
+      "detection_fraction": 0.07142857142857142
+    },
+    "FPR1": {
+      "cell_type": "Microglia",
+      "mean_expm1_log_normalized_expression": 0.5312199198137476,
+      "expression_relative_to_gene_max": 1.0,
+      "tau_cell_type_specificity": 0.9997130130546713,
+      "detection_fraction": 0.2012987012987013
+    },
+    "SLC31A1": {
+      "cell_type": "Endothelial cells",
+      "mean_expm1_log_normalized_expression": 0.3880891731209084,
+      "expression_relative_to_gene_max": 1.0,
+      "tau_cell_type_specificity": 0.6140119775165385,
+      "detection_fraction": 0.051181102362204724
+    }
+  },
+  "leave_one_donor_stability": {
+    "P2RX4": {
+      "full_cohort_dominant_cell_type": "Microglia",
+      "matching_folds": 1,
+      "n_folds": 3
+    },
+    "TLR2": {
+      "full_cohort_dominant_cell_type": "Microglia",
+      "matching_folds": 3,
+      "n_folds": 3
+    },
+    "CD82": {
+      "full_cohort_dominant_cell_type": "Müller-enriched glia",
+      "matching_folds": 3,
+      "n_folds": 3
+    },
+    "NLRP3": {
+      "full_cohort_dominant_cell_type": "Microglia",
+      "matching_folds": 3,
+      "n_folds": 3
+    },
+    "FPR1": {
+      "full_cohort_dominant_cell_type": "Microglia",
+      "matching_folds": 3,
+      "n_folds": 3
+    },
+    "SLC31A1": {
+      "full_cohort_dominant_cell_type": "Endothelial cells",
+      "matching_folds": 2,
+      "n_folds": 3
+    }
+  },
+  "figure_title": "Normal-retina localization context and donor stability (GSE130636)",
+  "figure_caption": "Author-mapped normal-retina donor-region libraries provide descriptive localization context. Expression and detection are summarized within library and cell type, aggregated across regions within donor, and checked in three leave-one-donor folds. These data do not establish disease-state cellular origin or independent DR replication.",
+  "interpretation": "Normal-retina localization context only; not disease-state cellular origin or disease replication. Donor-region libraries, not individual cells, were the aggregation units. Between-donor intervals are descriptive ranges across three donors, not population confidence intervals. No log-expression percentage or compositional share was calculated."
+}

@@ -1,7 +1,0 @@
-metric,value
-screened_datasets,2.0
-gse102485_diabetic_proliferative_membrane_n,20.0
-gse102485_non_diabetic_membrane_control_n,5.0
-gse102485_normal_retina_n,3.0
-supportive_signature_auc_dm_mem_vs_nondm_mem,0.61
-genes_with_positive_direction_dm_mem_vs_nondm_mem,7.0

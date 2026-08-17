@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local build output
+tmp/
+github_upload/
+
+# LaTeX intermediates
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.synctex.gz

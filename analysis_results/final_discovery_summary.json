@@ -1,0 +1,49 @@
+{
+  "analysis_version": "discover-research-article-final-v3",
+  "seed": 20260813,
+  "n_diabetic_donors": 26,
+  "group_counts": {
+    "Diabetic": 10,
+    "NPDR": 9,
+    "NPDR + DME": 5,
+    "PDR + DME": 2
+  },
+  "n_inflammatory_genes": 158,
+  "primary_estimand": "total association: standardized expression ~ donor-mean supplied DR severity + age + sex + PMI + RIN",
+  "secondary_estimand": "DME-conditioned association: primary model + DME",
+  "small_sample_inference": "HC3 covariance with residual-df t inference plus studentized Rademacher wild bootstrap-t",
+  "total_top5": [
+    "P2RX4",
+    "TLR2",
+    "CD82",
+    "NLRP3",
+    "FPR1"
+  ],
+  "dme_conditioned_top5": [
+    "P2RX4",
+    "SLC31A1",
+    "NLRP3",
+    "CD82",
+    "FPR1"
+  ],
+  "candidate_union": [
+    "P2RX4",
+    "TLR2",
+    "CD82",
+    "NLRP3",
+    "FPR1",
+    "SLC31A1"
+  ],
+  "high_leverage_donors": [
+    "13_030"
+  ],
+  "p2rx4_total_beta": 0.6879902439039749,
+  "p2rx4_total_p_t": 0.0014857541720058982,
+  "p2rx4_total_wild_bootstrap_p": 0.0008,
+  "p2rx4_bootstrap_top5_frequency": 0.6165,
+  "p2rx4_lodo_top5_frequency": 1.0,
+  "fdr_significant_total_model": 0,
+  "wild_bootstrap_iterations": 4999,
+  "donor_bootstrap_iterations": 2000,
+  "gse102485_role": "supplementary membrane-only post-hoc context; excluded from selection and validation"
+}

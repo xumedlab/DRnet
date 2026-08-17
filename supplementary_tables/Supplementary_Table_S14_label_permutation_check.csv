@@ -1,2 +1,0 @@
-analysis,score_column,n_samples,n_controls,n_cases,observed_auc,n_permutations,empirical_p_value,null_auc_mean,null_auc_sd,null_auc_q025,null_auc_median,null_auc_q975,interpretation_boundary
-fixed_score_label_permutation,oof_probability,20,10,10,0.87,10000,0.0020997900209979003,0.499173,0.13276719769535844,0.24999999999999997,0.5,0.7600000000000001,Permutation was applied to fixed out-of-fold scores and therefore tests label-score separation only; it is not an independent validation and does not remove discovery-set feature-selection bias.

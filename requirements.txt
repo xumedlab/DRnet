@@ -1,0 +1,11 @@
+numpy==2.2.6
+pandas==2.3.2
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.6
+seaborn==0.13.2
+statsmodels==0.14.6
+pydeseq2==0.5.2
+gseapy==1.1.13
+pytest==9.0.2
+ruff==0.15.9

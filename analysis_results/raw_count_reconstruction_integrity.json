@@ -1,0 +1,23 @@
+{
+  "archive_path": "D:\\testproject\\DRnet\\DRnet\\show\\Discover_Applied_Sciences_submission_package\\analysis_data\\independent_validation\\remote_results\\DRnet_GSE276892_remote_results.tar.gz",
+  "archive_bytes": 444319883,
+  "archive_sha256": "CF6784D6852D30A7A2A67FDFC0C7FB93E0A3ABBF3207CE775F860709795D65A6",
+  "gzip_header": "1F8B08",
+  "tar_member_count": 521,
+  "unsafe_member_count": 0,
+  "extracted_file_count": 450,
+  "workflow_checks": {
+    "all_regions_source_reconstruction": {
+      "manifest_entries": 221,
+      "checked_files": 221,
+      "failure_count": 0,
+      "failures": []
+    },
+    "primary_assembly_sensitivity": {
+      "manifest_entries": 221,
+      "checked_files": 221,
+      "failure_count": 0,
+      "failures": []
+    }
+  }
+}

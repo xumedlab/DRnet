@@ -1,0 +1,2 @@
+dataset_pair,shared_institution_or_team,shared_corresponding_unit,exact_deposited_sample_id_overlap,exact_pdr_age_sex_matches,collection_date_available_per_patient_in_both,eye_or_surgery_identifier_available_in_both,author_confirmation_obtained,public_metadata_conclusion,manuscript_language
+GSE276892 versus GSE179568,True,True,False,40/M; 56/M; 29/F,False,False,False,Patient non-overlap cannot be established or excluded from public metadata; different GEO accessions and sample labels are insufficient.,separate GEO datasets; no claim of independent patients

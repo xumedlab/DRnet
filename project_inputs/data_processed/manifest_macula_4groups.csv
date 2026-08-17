@@ -1,0 +1,40 @@
+sample_id,geo_accession,disease_group,region,severity_code,disease_group_detailed,age,sex,post_mortem_interval_min,rin,batch,donor,eye,dme,dr_severity_score
+sample_01,GSM4871112,healthy control,macula,0,Control,80,female,285,6.2,,04_014,OD,FALSE,0
+sample_10,GSM4871113,healthy control,macula,0,Control,78,female,283,5.7,,16_044,OD,FALSE,0
+sample_02,GSM4871123,healthy control,macula,0,Control,73,male,354,6.3,,05_014,OD,FALSE,0
+sample_21,GSM4871125,diabetic,macula,1,Diabetic,88,female,348,5.9,,04_031,OD,FALSE,10
+sample_22,GSM4871126,diabetic,macula,1,Diabetic,84,male,360,6.6,,05_024,OD,FALSE,10
+sample_23,GSM4871127,diabetic,macula,1,Diabetic,77,male,331,8.4,,06_013,OD,FALSE,10
+sample_24,GSM4871128,diabetic,macula,1,Diabetic,80,male,293,8.5,,08_021,OD,FALSE,10
+sample_25,GSM4871129,diabetic,macula,1,Diabetic,74,female,314,8.3,,14_090,OS,FALSE,10
+sample_26,GSM4871130,diabetic,macula,1,Diabetic,84,female,343,8.1,,07_020,OS,FALSE,10
+sample_27,GSM4871131,diabetic,macula,1,Diabetic,97,female,348,5.4,,16_005,OD,FALSE,10
+sample_28,GSM4871132,diabetic,macula,1,Diabetic,90,female,350,6.2,,16_025,OS,FALSE,10
+sample_29,GSM4871133,diabetic,macula,1,Diabetic,54,female,321,8.6,,17_020,OS,FALSE,10
+sample_03,GSM4871134,healthy control,macula,0,Control,73,female,320,4.7,,05_035,OD,FALSE,0
+sample_30,GSM4871135,diabetic,macula,1,Diabetic,86,male,322,5.9,,17_030,OS,FALSE,10
+sample_04,GSM4871145,healthy control,macula,0,Control,81,male,331,7.4,,05_044,OD,FALSE,0
+sample_41,GSM4871147,NPDR,macula,2,NPDR,65,female,331,6.9,,06_016,OD,FALSE,53
+sample_42,GSM4871148,NPDR,macula,2,NPDR,84,male,355,7.4,,08_027,OD,FALSE,35
+sample_43,GSM4871149,NPDR,macula,2,NPDR,89,male,321,8.2,,09_023,OD,FALSE,20
+sample_44,GSM4871150,NPDR,macula,2,NPDR,69,male,360,7.9,,09_024,OD,FALSE,35
+sample_46,GSM4871151,NPDR,macula,2,NPDR,97,male,348,7.3,,15_048,OD,FALSE,20
+sample_47,GSM4871152,NPDR,macula,2,NPDR,81,male,358,5.4,,15_076,OD,FALSE,20
+sample_48,GSM4871153,NPDR,macula,2,NPDR,62,male,329,8.7,,16_063,OS,FALSE,43
+sample_49,GSM4871154,NPDR,macula,2,NPDR,66,female,286,8.1,,17_093,OD,FALSE,53
+sample_05,GSM4871155,healthy control,macula,0,Control,82,female,305,8.3,,06_025,OD,FALSE,0
+sample_50,GSM4871156,NPDR,macula,2,NPDR,90,male,297,6.2,,17_071,OD,FALSE,53
+sample_06,GSM4871166,healthy control,macula,0,Control,84,female,325,7.8,,06_043,OS,FALSE,0
+sample_61,GSM4871168,NPDR/PDR + DME,macula,3,NPDR + DME,69,male,320,4.7,,04_028,OD,TRUE,43
+sample_62,GSM4871169,NPDR/PDR + DME,macula,3,NPDR + DME,77,female,149,7.3,,13_030,OS,TRUE,43
+sample_63,GSM4871170,NPDR/PDR + DME,macula,3,PDR + DME,73,female,312,7.6,,05_011,OD,TRUE,65
+sample_64,GSM4871171,NPDR/PDR + DME,macula,3,PDR + DME,73,female,340,4.7,,05_011,OS,TRUE,65
+sample_65,GSM4871172,NPDR/PDR + DME,macula,3,NPDR + DME,76,female,330,7.2,,05_049,OD,TRUE,35
+sample_66,GSM4871173,NPDR/PDR + DME,macula,3,NPDR + DME,76,female,350,7.5,,05_049,OS,TRUE,35
+sample_67,GSM4871174,NPDR/PDR + DME,macula,3,NPDR + DME,59,male,280,7.7,,10_005,OS,TRUE,35
+sample_68,GSM4871175,NPDR/PDR + DME,macula,3,PDR + DME,61,female,345,5.3,,16_055,OS,TRUE,65
+sample_69,GSM4871176,NPDR/PDR + DME,macula,3,NPDR + DME,82,female,316,7.9,,17_037,OD,TRUE,43
+sample_07,GSM4871177,healthy control,macula,0,Control,63,male,343,7.8,,06_055,OD,FALSE,0
+sample_70,GSM4871178,NPDR/PDR + DME,macula,3,NPDR + DME,82,female,348,7.9,,17_037,OS,TRUE,35
+sample_08,GSM4871188,healthy control,macula,0,Control,80,female,280,7.8,,08_049,OD,FALSE,0
+sample_09,GSM4871190,healthy control,macula,0,Control,70,male,279,5,,06_056,OS,FALSE,0

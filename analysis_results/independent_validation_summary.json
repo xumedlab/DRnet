@@ -1,0 +1,57 @@
+{
+  "target_gene": "P2RX4",
+  "protocol_sha256": "FA0EBEEFE45709178E197B6F0819F7AA1E1692E50AA2C7F47E2601D7CA3C8EED",
+  "bootstrap_iterations": 10000,
+  "random_seed": 20260813,
+  "locally_specified_primary_status": "Inconclusive. The exact source count matrix was not deposited; the post-protocol raw-read reconstruction is available but depends on preprocessing choices absent from the local protocol.",
+  "source_reported_gse276892": {
+    "source_reported_log2_fold_change": 0.431555466,
+    "source_reported_adjusted_p": 0.899589091,
+    "source_reported_mean_pdr": 3344.332491,
+    "source_reported_mean_control": 2433.456719
+  },
+  "gse276892_patient_level_direction": {
+    "mean_difference": 910.8757722988889,
+    "mean_log2_value_difference": -0.2534196808392313,
+    "cliff_delta": 0.5,
+    "mann_whitney_p_one_sided_greater": 0.04635952283011106,
+    "mann_whitney_p_two_sided": 0.09271904566022213,
+    "loo_mean_direction_positive_fraction": 1.0
+  },
+  "source_reported_gse179568": {
+    "source_reported_log2_fold_change_pdr_vs_ilm": 0.633719452260717,
+    "source_reported_adjusted_p_pdr_vs_ilm": 0.428809366170315,
+    "source_reported_mean_pdr": 1402.74224642931,
+    "source_reported_mean_macular_pucker": 799.83877848511,
+    "source_reported_mean_ilm": 888.017815900592
+  },
+  "gse179568_clinical_sensitivity": {
+    "table": "Independent_validation_GSE179568_clinical_sensitivity.csv",
+    "covariate_balance": "Independent_validation_GSE179568_covariate_balance.csv",
+    "age_common_support_in_all_three_comparisons": false,
+    "interpretation": "No age common support exists between PDR and either control compartment. HC3 and Huber models are extrapolative sensitivities, not deconfounded disease-effect estimates."
+  },
+  "external_dataset_search": {
+    "date": "2026-08-13",
+    "databases": "NCBI GEO and PubMed",
+    "search_string": "human diabetic retinopathy AND (retina OR vitreous OR membrane) AND (RNA-seq OR transcriptomics)",
+    "screening_table": "Independent_validation_dataset_eligibility.csv",
+    "status": "retrospectively reconstructed; not a contemporaneous registry"
+  },
+  "patient_overlap_audit": {
+    "table": "Independent_validation_patient_overlap_audit.csv",
+    "conclusion": "Public metadata do not prove patient non-overlap between the two Freiburg datasets; the manuscript therefore says separate GEO datasets rather than independent patients."
+  },
+  "scope_statement": "The results describe P2RX4 in separate human PDR-associated GEO datasets. They do not prove patient non-overlap, whole-retina replication, causality, or cell-type specificity. GSE276892 is inconclusive after source/covariate sensitivity analyses.",
+  "input_sha256": {
+    "analysis_data\\independent_validation\\P2RX4_VALIDATION_PROTOCOL_LOCALLY_FROZEN.md": "FA0EBEEFE45709178E197B6F0819F7AA1E1692E50AA2C7F47E2601D7CA3C8EED",
+    "analysis_data\\independent_validation\\GSE276892_normal_data.csv.gz": "DBF484E46395EF894573C4717B2CA0A46BDDB60A55075D1D55C31086AF251CA8",
+    "analysis_data\\independent_validation\\GSE276892_README_all_samples.xlsx": "B1DD4E47AEF209CCEC184D0B56C81E3090374846F8D5B8C316B7640E28E16020",
+    "analysis_data\\independent_validation\\GSE276892_primary_article_table1.html": "DCE1B016E6F6A50DE60A5F937B3D6D3AEC1E32521CC51E87DB16991CB00DA4AE",
+    "analysis_data\\independent_validation\\GSE94019_Partek_EM_gene_reads.txt.gz": "89D46CFC70DF292297E7EDD2AA486F1F8B6141FE14029F8027BB403B7A8E55D8",
+    "analysis_data\\independent_validation\\GSE179568\\GSE179568_data.csv.gz": "7382A75A75C62040BFAE6E4872D54EE780C5924EF5D7FDFCED59692D68CDD244",
+    "analysis_data\\independent_validation\\GSE179568\\GSE179568_family.soft.gz": "9E704097C9AA3E693AC5D55D32EE011A6D2E49C0DB1A51BFE4AB89CCCA4E3237",
+    "analysis_data\\independent_validation\\GSE179568\\GSE179568_series_matrix.txt.gz": "EC05EC2EF613B6A7D884107498C5CD20711EA7DE1E4D33CCA302258BB66D6058",
+    "analysis_data\\independent_validation\\GSE179568\\Table 1.pdf": "375C2F9A341DB8AA90CF2B37847DE31B8FAE864B4D06C1BD2156E19B8D4D91B4"
+  }
+}
