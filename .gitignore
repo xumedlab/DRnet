@@ -4,16 +4,10 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 
-# Local build output
+# Generated and local-only output
 tmp/
 github_upload/
-
-# LaTeX intermediates
-*.aux
-*.bbl
-*.blg
-*.fls
-*.fdb_latexmk
+figures/
 *.log
-*.out
-*.synctex.gz
+analysis_results/raw_count_deseq2_all_genes_*.csv
+analysis_data/independent_validation/remote_results/DRnet_GSE276892_remote_results.tar.gz

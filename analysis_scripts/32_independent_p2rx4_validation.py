@@ -1690,9 +1690,7 @@ def main() -> None:
                 data_dir / "GSE276892_primary_article_table1.html",
                 data_dir / "GSE94019_Partek_EM_gene_reads.txt.gz",
                 data_dir / "GSE179568" / "GSE179568_data.csv.gz",
-                data_dir / "GSE179568" / "GSE179568_family.soft.gz",
                 data_dir / "GSE179568" / "GSE179568_series_matrix.txt.gz",
-                data_dir / "GSE179568" / "Table 1.pdf",
             ]
         },
     }

@@ -32,6 +32,23 @@ def run(command: list[str], workdir: Path) -> None:
     subprocess.run(command, cwd=workdir, check=True)
 
 
+def run_submission_validator_if_present(
+    scripts: Path,
+    python: str,
+    package: Path,
+) -> None:
+    """Run package-only manuscript checks without requiring them in the code repo."""
+    validator = scripts / "34_validate_final_submission.py"
+    if validator.is_file():
+        run([python, str(validator)], package)
+    else:
+        print(
+            "Analysis completed. The journal-submission validator is not part of "
+            "the minimal public code repository.",
+            flush=True,
+        )
+
+
 def require_inputs(project: Path, package: Path) -> None:
     required = [
         project / "data_processed" / "log2cpm_macula_4groups.tsv",
@@ -120,7 +137,7 @@ def main() -> None:
             flush=True,
         )
     else:
-        run([python, str(scripts / "34_validate_final_submission.py")], package)
+        run_submission_validator_if_present(scripts, python, package)
 
 
 if __name__ == "__main__":

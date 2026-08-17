@@ -1,9 +1,5 @@
 # Reproducible text line endings across Windows and Linux
 * text=auto
-*.bib text eol=lf
-*.bst text eol=lf
-*.cff text eol=lf
-*.cls text eol=lf
 *.csv text eol=lf
 *.gmt text eol=lf
 *.html text eol=lf
@@ -12,20 +8,14 @@
 *.md text eol=lf
 *.py text eol=lf
 *.sh text eol=lf
-*.tex text eol=lf
 *.tsv text eol=lf
 *.txt text eol=lf
 
-# Binary scientific inputs and rendered artifacts
+# Binary scientific inputs
 *.gz binary
-*.pdf binary
-*.png binary
 *.tar binary
 *.xlsx binary
 
-# Preserve deposited and publisher-supplied source files verbatim. Their source
-# formatting includes non-canonical line endings or trailing spaces that are not
-# manuscript or program whitespace defects.
+# Preserve the deposited source HTML formatting. Its trailing spaces are not
+# source-code whitespace defects.
 analysis_data/independent_validation/GSE276892_primary_article_table1.html -whitespace
-manuscript/sn-jnl.cls -text -whitespace
-manuscript/sn-nature.bst -text -whitespace
